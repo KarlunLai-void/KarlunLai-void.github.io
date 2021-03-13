@@ -12,7 +12,7 @@ if(document.cookie.replace(/(?:(?:^|.*;\s*)dark\s*\=\s*([^;]*).*$)|^.*$/, "$1") 
 }
 
 function switchDarkMode(){
-    var night = document.cookie.replace(/(?:(?:^|.*;\s*)dark\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
+    var night = document.cookie.replace(/(?:(?:^|.*;\s*)dark\s*\=\s*([^;]*).*$)|^.*$/, "$1");
     if(night == '0'){
         document.querySelector('link[title="dark"]').disabled = true;
         document.querySelector('link[title="dark"]').disabled = false;

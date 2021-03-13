@@ -98,35 +98,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【APGS2021】Using third-party tools to lower indie development costs, a case of M.A.S.S. Builder</title>
-    <url>/2021/01/28/APGS2021_Using-third-party-tools-to-lower-indie-development-costs/</url>
-    <content><![CDATA[<p>講者：Nontawat Thanakiatkrai</p>
-<span id="more"></span>
-
-<h2 id="Procedural-Generation（循序生成技術）"><a href="#Procedural-Generation（循序生成技術）" class="headerlink" title="Procedural Generation（循序生成技術）"></a>Procedural Generation（循序生成技術）</h2><ul>
-<li>透過程式產生隨機或特定規則的遊戲資源與物件的過程。</li>
-<li>提供無限的資源，從岩石、樹木與建築物等小型物件，到地形、山脈，甚至整個關卡都適用。</li>
-<li>網路上有許多用此技術開發的工具（e.g. Houdini、World Creator），而時機成熟後也可以自己開發。</li>
-</ul>
-<h2 id="Procedural-Generation-Example"><a href="#Procedural-Generation-Example" class="headerlink" title="Procedural Generation Example"></a>Procedural Generation Example</h2><ul>
-<li><p>低面數小型物件<br>以電纜線為例，透過隨機化，可以設定包括管內纜線數量、彎曲程度等，任何相似的東西都可以自行調整。<br><img src="https://i.imgur.com/lhU1boG.jpg"></p>
-</li>
-<li><p>高面數岩石資源<br>可以設定密度、大小和細緻程度，讓這些岩石在每個seed中可能都不一樣。<br>而稱作高面數的原因，因為這些岩石可以用來裝飾關卡，提供關卡深度和細節。<br><img src="https://i.imgur.com/NaGVjbz.jpg"></p>
-</li>
-<li><p>樹葉<br>如不用此技術，這些樹葉可能將耗費團隊大量時間為每一種類型的樹木建立library；如果使用此技術，我們就可以針對每一種關卡建立不同的樹葉類型，e.g. 雪山、森林or平原。<br><img src="https://i.imgur.com/G8moeCB.jpg"></p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>APGS2021_亞太國際高峰會</category>
-      </categories>
-      <tags>
-        <tag>APGS2021</tag>
-        <tag>APGS亞太國際高峰會</tag>
-        <tag>Procedural Generation</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Note</title>
     <url>/2021/02/05/Note/</url>
     <content><![CDATA[<h1 id="更新日誌"><a href="#更新日誌" class="headerlink" title="更新日誌"></a>更新日誌</h1><p>網站目前施工中…</p>
@@ -172,6 +143,35 @@
       <tags>
         <tag>置頂</tag>
         <tag>未來計畫</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【APGS2021】Using third-party tools to lower indie development costs, a case of M.A.S.S. Builder</title>
+    <url>/2021/01/28/APGS2021_Using-third-party-tools-to-lower-indie-development-costs/</url>
+    <content><![CDATA[<p>講者：Nontawat Thanakiatkrai</p>
+<span id="more"></span>
+
+<h2 id="Procedural-Generation（循序生成技術）"><a href="#Procedural-Generation（循序生成技術）" class="headerlink" title="Procedural Generation（循序生成技術）"></a>Procedural Generation（循序生成技術）</h2><ul>
+<li>透過程式產生隨機或特定規則的遊戲資源與物件的過程。</li>
+<li>提供無限的資源，從岩石、樹木與建築物等小型物件，到地形、山脈，甚至整個關卡都適用。</li>
+<li>網路上有許多用此技術開發的工具（e.g. Houdini、World Creator），而時機成熟後也可以自己開發。</li>
+</ul>
+<h2 id="Procedural-Generation-Example"><a href="#Procedural-Generation-Example" class="headerlink" title="Procedural Generation Example"></a>Procedural Generation Example</h2><ul>
+<li><p>低面數小型物件<br>以電纜線為例，透過隨機化，可以設定包括管內纜線數量、彎曲程度等，任何相似的東西都可以自行調整。<br><img src="https://i.imgur.com/lhU1boG.jpg"></p>
+</li>
+<li><p>高面數岩石資源<br>可以設定密度、大小和細緻程度，讓這些岩石在每個seed中可能都不一樣。<br>而稱作高面數的原因，因為這些岩石可以用來裝飾關卡，提供關卡深度和細節。<br><img src="https://i.imgur.com/NaGVjbz.jpg"></p>
+</li>
+<li><p>樹葉<br>如不用此技術，這些樹葉可能將耗費團隊大量時間為每一種類型的樹木建立library；如果使用此技術，我們就可以針對每一種關卡建立不同的樹葉類型，e.g. 雪山、森林or平原。<br><img src="https://i.imgur.com/G8moeCB.jpg"></p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>APGS2021_亞太國際高峰會</category>
+      </categories>
+      <tags>
+        <tag>APGS2021</tag>
+        <tag>APGS亞太國際高峰會</tag>
+        <tag>Procedural Generation</tag>
       </tags>
   </entry>
   <entry>
@@ -463,104 +463,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【TGDF2020】Substance PBR 材質解析 ─ 遊戲材質的下一個革命</title>
-    <url>/2020/07/14/TGDF2020_SubstancePBR/</url>
-    <content><![CDATA[<p>講者: 嚴美子</p>
-<p>Adobe一個可以用來做模型Texture繪製的軟體，功能強大…</p>
-<span id="more"></span>
-
-<h2 id="Substance可用於"><a href="#Substance可用於" class="headerlink" title="Substance可用於"></a>Substance可用於</h2><ol>
-<li>資產開發Asset</li>
-<li>材質開發Material、Texture等<strong>（主要）</strong></li>
-</ol>
-<h2 id="Substance支援以下開發軟體"><a href="#Substance支援以下開發軟體" class="headerlink" title="Substance支援以下開發軟體"></a>Substance支援以下開發軟體</h2><p><img src="https://i.imgur.com/bCGdiGK.png"></p>
-<h2 id="Substance工作層級"><a href="#Substance工作層級" class="headerlink" title="Substance工作層級"></a>Substance工作層級</h2><p><img src="https://i.imgur.com/vk6g4BH.png"></p>
-<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/swLPZlyQ9Z4">https://youtu.be/swLPZlyQ9Z4</a></p>
-]]></content>
-      <categories>
-        <category>TGDF2020_台北遊戲開發者論壇</category>
-      </categories>
-      <tags>
-        <tag>TGDF2020</tag>
-        <tag>TGDF台北遊戲開發者論壇</tag>
-        <tag>美術工具</tag>
-        <tag>Texture</tag>
-        <tag>Adobe Substance</tag>
-        <tag>軟體介紹</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【TGDF2020】從負數到零，以《迷霧國度》為例，聊遊戲開發的大失敗與再起</title>
-    <url>/2020/07/14/TGDF2020_from-negative-to-zero/</url>
-    <content><![CDATA[<p>講者: 周子修</p>
-<span id="more"></span>
-
-<h2 id="獨立開發的市場定位"><a href="#獨立開發的市場定位" class="headerlink" title="獨立開發的市場定位"></a>獨立開發的市場定位</h2><ul>
-<li>講者想說的話：<ul>
-<li>不要想著一發入魂，要想二次、三次甚至四次</li>
-<li>活著，且不斷朝目標前進</li>
-<li>走過的路一定有「回報」</li>
-</ul>
-</li>
-<li>淺談遊戲立項與目標設定<ul>
-<li>做你能做的遊戲</li>
-<li>在小的市場都足夠餵飽你</li>
-<li>可以做個自我檢查表<br>  ex:<br>  <img src="https://i.imgur.com/8jBjAyi.png"></li>
-</ul>
-</li>
-</ul>
-<h2 id="資源控管"><a href="#資源控管" class="headerlink" title="資源控管"></a>資源控管</h2><ul>
-<li>停損<ul>
-<li>將資源花在刀口上</li>
-<li>視點拉到團隊目標，而非單一專案</li>
-<li>確立標準&amp;檢查點</li>
-<li>有彈性，但不能沒有規劃</li>
-<li>猶豫就會敗北</li>
-<li>ex:<br><img src="https://i.imgur.com/sCgnOPL.png"></li>
-</ul>
-</li>
-<li>資源控管<ul>
-<li>有限的時間和資源下達成目標</li>
-<li>5/5開發法則(原先是7/3開發法則)<ul>
-<li>5成開發，5成優化</li>
-<li>認為應先快速打出雛形，先有東西出來，再慢慢優化</li>
-</ul>
-</li>
-<li>先求有再求好</li>
-<li>分清「必要」與「想要」</li>
-<li>小心沉沒成本的陷阱<ul>
-<li>回歸停損的概念</li>
-</ul>
-</li>
-<li>小工具<ul>
-<li>願望清單</li>
-<li>敏捷開發+看板<br>  進度看板、QA看板等</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h2 id="團隊管理與自我定位"><a href="#團隊管理與自我定位" class="headerlink" title="團隊管理與自我定位"></a>團隊管理與自我定位</h2><ul>
-<li>將團隊視為一個不斷變動的有機體</li>
-<li>公歸公、私歸私</li>
-<li>認清想做、能做和該做的事情</li>
-<li>留「思考」的時間給自己</li>
-<li>記住自己不是一個人，在蠻幹前先求援</li>
-<li>永遠對自己誠實</li>
-</ul>
-<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/2nCYIx3UAAA">https://youtu.be/2nCYIx3UAAA</a></p>
-]]></content>
-      <categories>
-        <category>TGDF2020_台北遊戲開發者論壇</category>
-      </categories>
-      <tags>
-        <tag>TGDF2020</tag>
-        <tag>TGDF台北遊戲開發者論壇</tag>
-        <tag>製程與管理</tag>
-        <tag>失敗經驗分享</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【TGDF2020】從團隊到公司：那些你總要面對的事</title>
     <url>/2020/07/14/TGDF2020_from-group-to-company/</url>
     <content><![CDATA[<p>講者：高偉家</p>
@@ -661,6 +563,104 @@
         <tag>TGDF台北遊戲開發者論壇</tag>
         <tag>遊戲行銷與商務</tag>
         <tag>遊戲開發補助</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【TGDF2020】Substance PBR 材質解析 ─ 遊戲材質的下一個革命</title>
+    <url>/2020/07/14/TGDF2020_SubstancePBR/</url>
+    <content><![CDATA[<p>講者: 嚴美子</p>
+<p>Adobe一個可以用來做模型Texture繪製的軟體，功能強大…</p>
+<span id="more"></span>
+
+<h2 id="Substance可用於"><a href="#Substance可用於" class="headerlink" title="Substance可用於"></a>Substance可用於</h2><ol>
+<li>資產開發Asset</li>
+<li>材質開發Material、Texture等<strong>（主要）</strong></li>
+</ol>
+<h2 id="Substance支援以下開發軟體"><a href="#Substance支援以下開發軟體" class="headerlink" title="Substance支援以下開發軟體"></a>Substance支援以下開發軟體</h2><p><img src="https://i.imgur.com/bCGdiGK.png"></p>
+<h2 id="Substance工作層級"><a href="#Substance工作層級" class="headerlink" title="Substance工作層級"></a>Substance工作層級</h2><p><img src="https://i.imgur.com/vk6g4BH.png"></p>
+<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/swLPZlyQ9Z4">https://youtu.be/swLPZlyQ9Z4</a></p>
+]]></content>
+      <categories>
+        <category>TGDF2020_台北遊戲開發者論壇</category>
+      </categories>
+      <tags>
+        <tag>TGDF2020</tag>
+        <tag>TGDF台北遊戲開發者論壇</tag>
+        <tag>美術工具</tag>
+        <tag>Texture</tag>
+        <tag>Adobe Substance</tag>
+        <tag>軟體介紹</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【TGDF2020】從負數到零，以《迷霧國度》為例，聊遊戲開發的大失敗與再起</title>
+    <url>/2020/07/14/TGDF2020_from-negative-to-zero/</url>
+    <content><![CDATA[<p>講者: 周子修</p>
+<span id="more"></span>
+
+<h2 id="獨立開發的市場定位"><a href="#獨立開發的市場定位" class="headerlink" title="獨立開發的市場定位"></a>獨立開發的市場定位</h2><ul>
+<li>講者想說的話：<ul>
+<li>不要想著一發入魂，要想二次、三次甚至四次</li>
+<li>活著，且不斷朝目標前進</li>
+<li>走過的路一定有「回報」</li>
+</ul>
+</li>
+<li>淺談遊戲立項與目標設定<ul>
+<li>做你能做的遊戲</li>
+<li>在小的市場都足夠餵飽你</li>
+<li>可以做個自我檢查表<br>  ex:<br>  <img src="https://i.imgur.com/8jBjAyi.png"></li>
+</ul>
+</li>
+</ul>
+<h2 id="資源控管"><a href="#資源控管" class="headerlink" title="資源控管"></a>資源控管</h2><ul>
+<li>停損<ul>
+<li>將資源花在刀口上</li>
+<li>視點拉到團隊目標，而非單一專案</li>
+<li>確立標準&amp;檢查點</li>
+<li>有彈性，但不能沒有規劃</li>
+<li>猶豫就會敗北</li>
+<li>ex:<br><img src="https://i.imgur.com/sCgnOPL.png"></li>
+</ul>
+</li>
+<li>資源控管<ul>
+<li>有限的時間和資源下達成目標</li>
+<li>5/5開發法則(原先是7/3開發法則)<ul>
+<li>5成開發，5成優化</li>
+<li>認為應先快速打出雛形，先有東西出來，再慢慢優化</li>
+</ul>
+</li>
+<li>先求有再求好</li>
+<li>分清「必要」與「想要」</li>
+<li>小心沉沒成本的陷阱<ul>
+<li>回歸停損的概念</li>
+</ul>
+</li>
+<li>小工具<ul>
+<li>願望清單</li>
+<li>敏捷開發+看板<br>  進度看板、QA看板等</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="團隊管理與自我定位"><a href="#團隊管理與自我定位" class="headerlink" title="團隊管理與自我定位"></a>團隊管理與自我定位</h2><ul>
+<li>將團隊視為一個不斷變動的有機體</li>
+<li>公歸公、私歸私</li>
+<li>認清想做、能做和該做的事情</li>
+<li>留「思考」的時間給自己</li>
+<li>記住自己不是一個人，在蠻幹前先求援</li>
+<li>永遠對自己誠實</li>
+</ul>
+<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/2nCYIx3UAAA">https://youtu.be/2nCYIx3UAAA</a></p>
+]]></content>
+      <categories>
+        <category>TGDF2020_台北遊戲開發者論壇</category>
+      </categories>
+      <tags>
+        <tag>TGDF2020</tag>
+        <tag>TGDF台北遊戲開發者論壇</tag>
+        <tag>製程與管理</tag>
+        <tag>失敗經驗分享</tag>
       </tags>
   </entry>
   <entry>
