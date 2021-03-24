@@ -6,7 +6,7 @@
   <link href="https://karlunlai-void.github.io/atom.xml" rel="self"/>
   
   <link href="https://karlunlai-void.github.io/"/>
-  <updated>2021-03-11T22:32:46.932Z</updated>
+  <updated>2021-03-24T00:00:59.481Z</updated>
   <id>https://karlunlai-void.github.io/</id>
   
   <author>
@@ -17,29 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Note</title>
+    <title>Blog更新日誌</title>
     <link href="https://karlunlai-void.github.io/2021/02/05/Note/"/>
     <id>https://karlunlai-void.github.io/2021/02/05/Note/</id>
     <published>2021-02-05T14:05:00.000Z</published>
-    <updated>2021-03-11T22:32:46.932Z</updated>
+    <updated>2021-03-24T00:00:59.481Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;更新日誌&quot;&gt;&lt;a href=&quot;#更新日誌&quot; class=&quot;headerlink&quot;</summary>
-        
-      
+    <summary type="html">&lt;p&gt;Update log and TODO list in blog&lt;/p&gt;</summary>
     
     
     
-    <category term="預期進度" scheme="https://karlunlai-void.github.io/categories/%E9%A0%90%E6%9C%9F%E9%80%B2%E5%BA%A6/"/>
+    <category term="Blog更新日誌" scheme="https://karlunlai-void.github.io/categories/Blog%E6%9B%B4%E6%96%B0%E6%97%A5%E8%AA%8C/"/>
     
     
-    <category term="置頂" scheme="https://karlunlai-void.github.io/tags/%E7%BD%AE%E9%A0%82/"/>
-    
-    <category term="未來計畫" scheme="https://karlunlai-void.github.io/tags/%E6%9C%AA%E4%BE%86%E8%A8%88%E7%95%AB/"/>
+    <category term="Blog更新日誌" scheme="https://karlunlai-void.github.io/tags/Blog%E6%9B%B4%E6%96%B0%E6%97%A5%E8%AA%8C/"/>
     
   </entry>
   
