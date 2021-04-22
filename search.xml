@@ -1,286 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【APGS2021】The power of &quot;kyaaa&quot; in game production</title>
-    <url>/2021/01/29/APGS2021_The-power-of-kyaaa-in-game-production/</url>
-    <content><![CDATA[<p>講者：Shawn Toh／BATTLEBREW PRODUCTIONS</p>
-<span id="more"></span>
-
-<h1 id="COOL-v-s-HOT-v-s-CUTE（風格上）"><a href="#COOL-v-s-HOT-v-s-CUTE（風格上）" class="headerlink" title="COOL v.s. HOT v.s. CUTE（風格上）"></a>COOL v.s. HOT v.s. CUTE（風格上）</h1><p><img src="https://i.imgur.com/iLq5PfU.jpg"></p>
-<ul>
-<li><p>大部分的遊戲都是結合好幾種特色，但你通常還是得選擇一個主軸。<br>（Most games require a mixture, but usually you choose a main direction.）</p>
-</li>
-<li><p>上面的圖就像一個滑軌，會隨著你的風格改變移來移去，並根據你在滑軌上的位置，可以觸及到不同的受眾。</p>
-</li>
-<li><p>取決於你的做法不同，玩家的反應也會兩極化，那可能就會面臨審查相關的問題。</p>
-</li>
-</ul>
-<h1 id="上面的三角形每個角的優缺點"><a href="#上面的三角形每個角的優缺點" class="headerlink" title="上面的三角形每個角的優缺點"></a>上面的三角形每個角的優缺點</h1><h2 id="COOL"><a href="#COOL" class="headerlink" title="COOL"></a>COOL</h2><p><img src="https://i.imgur.com/Z5ZR1PE.png"></p>
-<h2 id="HOT"><a href="#HOT" class="headerlink" title="HOT"></a>HOT</h2><ul>
-<li>最直接的是Hentai Game，通常許多這類型的遊戲會結合一些酷或可愛的元素。</li>
-</ul>
-<p><img src="https://i.imgur.com/YGzonQe.png"></p>
-<h2 id="CUTE"><a href="#CUTE" class="headerlink" title="CUTE"></a>CUTE</h2><p><img src="https://i.imgur.com/r0e4WOA.png"></p>
-]]></content>
-      <categories>
-        <category>APGS2021_亞太國際高峰會</category>
-      </categories>
-      <tags>
-        <tag>APGS2021</tag>
-        <tag>APGS亞太國際高峰會</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【APGS2021】Composing music for a VR historical game</title>
-    <url>/2021/01/29/APGS2021_Composing-music-for-a-VR-historical-game/</url>
-    <content><![CDATA[<p>講者：Aurelie Moiroud</p>
-<p>主要以自家VR遊戲《Lost Myths : Sons Of Ragnar》為經驗分享<br>時代背景：維京時期</p>
-<span id="more"></span>
-
-<h2 id="Inspiration-Sources"><a href="#Inspiration-Sources" class="headerlink" title="Inspiration Sources"></a>Inspiration Sources</h2><ul>
-<li>首先，必須找到靈感來源<br><img src="https://i.imgur.com/mpA2L4T.jpg"></li>
-</ul>
-<h3 id="Resources"><a href="#Resources" class="headerlink" title="Resources"></a>Resources</h3><h4 id="Master-Thesis"><a href="#Master-Thesis" class="headerlink" title="Master Thesis:"></a>Master Thesis:</h4><ul>
-<li><em>Chihiro Tsukamoto</em> - <strong>“What did they sound like? Reconstructing the music of the Viking Age.”</strong></li>
-<li>幫助講者在製作音樂時對還原度的追求</li>
-</ul>
-<h4 id="Website"><a href="#Website" class="headerlink" title="Website:"></a>Website:</h4><ul>
-<li><a href="http://www.vikinganswerlady.com/">www.vikinganswerlady.com</a></li>
-<li>網站上面的文章都為學者所寫，是個了解維京人不錯的資訊來源</li>
-</ul>
-<h4 id="Music"><a href="#Music" class="headerlink" title="Music:"></a>Music:</h4><ul>
-<li>Nordic folk music（e.g. 斯堪地那維亞民俗相關音樂）</li>
-<li>考古學家重建的音樂</li>
-</ul>
-<h4 id="Book"><a href="#Book" class="headerlink" title="Book:"></a>Book:</h4><ul>
-<li><strong>“A composer’s guide to game music”</strong> by <em>Winifred Phillips</em></li>
-<li><strong>“Music instinst”</strong> by <em>Philipp Ball</em></li>
-</ul>
-<h3 id="Challenges"><a href="#Challenges" class="headerlink" title="Challenges"></a>Challenges</h3><ul>
-<li><p>對歷史遊戲的作曲來說，最大的挑戰就是<strong>歷史研究</strong>，因為古代北方社會音樂相關的歷史資訊和事蹟真的很難找，很不幸的是完全找不到任何音樂作品的痕跡，很多樂器都失傳了。</p>
-</li>
-<li><p>而做為一個作曲家，創作出的音樂必須符合故事情境，也必須符合遊戲中正在發生的動作。</p>
-</li>
-</ul>
-<h3 id="Aim-of-the-music"><a href="#Aim-of-the-music" class="headerlink" title="Aim of the music"></a>Aim of the music</h3><ul>
-<li>音樂的目的是，創造一個讓玩家沉浸在維京時代，符合歷史時代但不一定完全還原的音樂環境。</li>
-<li>音樂也帶動遊戲的氣氛，希望他對情緒有所影響。</li>
-<li>也希望為每一個關卡創造不同的氣氛。</li>
-</ul>
-<h2 id="Production-Phase"><a href="#Production-Phase" class="headerlink" title="Production Phase"></a>Production Phase</h2><h3 id="Music-Genre"><a href="#Music-Genre" class="headerlink" title="Music Genre"></a>Music Genre</h3><p><img src="https://i.imgur.com/OlBA0PS.jpg"></p>
-<h3 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h3><ul>
-<li>編曲軟體：Ableton Live 10</li>
-<li>音源工具：EastWest, Hybrid 3, Native Instruments</li>
-<li>母帶處理：iZotope, OZONE 7</li>
-<li>音量儀表：FMOD Division 1.10.09</li>
-<li>音頻設計：Novation Launchkey 25 key MIDI Controller<ul>
-<li>（反正就是MIDI鍵盤 or MIDI控制器，自己習慣就好）</li>
-</ul>
-</li>
-</ul>
-<h3 id="Technique"><a href="#Technique" class="headerlink" title="Technique"></a>Technique</h3><p><img src="https://i.imgur.com/dOCbk9w.jpg"></p>
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>如果想為具備歷史元素的遊戲作曲，講者分享了一些他在做這些專案時學到的技巧</p>
-<ol>
-<li><strong>一定</strong>要研究書籍、文章、網站和學者論文，如果需要更多建議或幫助，就去連絡這些專家吧！</li>
-<li>多聽該時期的音樂 or 相似類型的音樂，協助獲得靈感。</li>
-<li><strong>要跟時常跟團隊溝通</strong>，問他們問題、展示成果、問他們意見以及問他們對音樂的感覺等等。</li>
-<li>探索不同的作曲技巧，來賦予自己的音樂生命和情感</li>
-</ol>
-]]></content>
-      <categories>
-        <category>APGS2021_亞太國際高峰會</category>
-      </categories>
-      <tags>
-        <tag>APGS2021</tag>
-        <tag>APGS亞太國際高峰會</tag>
-        <tag>音樂音效</tag>
-        <tag>歷史遊戲開發經驗</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【APGS2021】Using third-party tools to lower indie development costs, a case of M.A.S.S. Builder</title>
-    <url>/2021/01/28/APGS2021_Using-third-party-tools-to-lower-indie-development-costs/</url>
-    <content><![CDATA[<p>講者：Nontawat Thanakiatkrai</p>
-<span id="more"></span>
-
-<h2 id="Procedural-Generation（循序生成技術）"><a href="#Procedural-Generation（循序生成技術）" class="headerlink" title="Procedural Generation（循序生成技術）"></a>Procedural Generation（循序生成技術）</h2><ul>
-<li>透過程式產生隨機或特定規則的遊戲資源與物件的過程。</li>
-<li>提供無限的資源，從岩石、樹木與建築物等小型物件，到地形、山脈，甚至整個關卡都適用。</li>
-<li>網路上有許多用此技術開發的工具（e.g. Houdini、World Creator），而時機成熟後也可以自己開發。</li>
-</ul>
-<h2 id="Procedural-Generation-Example"><a href="#Procedural-Generation-Example" class="headerlink" title="Procedural Generation Example"></a>Procedural Generation Example</h2><ul>
-<li><p>低面數小型物件<br>以電纜線為例，透過隨機化，可以設定包括管內纜線數量、彎曲程度等，任何相似的東西都可以自行調整。<br><img src="https://i.imgur.com/lhU1boG.jpg"></p>
-</li>
-<li><p>高面數岩石資源<br>可以設定密度、大小和細緻程度，讓這些岩石在每個seed中可能都不一樣。<br>而稱作高面數的原因，因為這些岩石可以用來裝飾關卡，提供關卡深度和細節。<br><img src="https://i.imgur.com/NaGVjbz.jpg"></p>
-</li>
-<li><p>樹葉<br>如不用此技術，這些樹葉可能將耗費團隊大量時間為每一種類型的樹木建立library；如果使用此技術，我們就可以針對每一種關卡建立不同的樹葉類型，e.g. 雪山、森林or平原。<br><img src="https://i.imgur.com/G8moeCB.jpg"></p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>APGS2021_亞太國際高峰會</category>
-      </categories>
-      <tags>
-        <tag>APGS2021</tag>
-        <tag>APGS亞太國際高峰會</tag>
-        <tag>Procedural Generation</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【TGDF2020】我也可以當實況主嗎？</title>
-    <url>/2020/07/14/TGDF2020_Can-I-also-become-the-streamer/</url>
-    <content><![CDATA[<p>講者: 汪光磊（6tan）</p>
-<span id="more"></span>
-
-<h2 id="遊戲實況在行銷上"><a href="#遊戲實況在行銷上" class="headerlink" title="遊戲實況在行銷上"></a>遊戲實況在行銷上</h2><ul>
-<li>優勢<ul>
-<li>相對其他媒體，較能即時和觀眾互動</li>
-<li>在互動下可以激起更多玩家</li>
-<li>費用相對Youtuber低</li>
-</ul>
-</li>
-<li>弱勢<ul>
-<li>只能發生在當下，錯過就沒辦法了<ul>
-<li>因此建議剪輯精華，在網路留下足跡</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h2 id="遊戲實況在遊戲開發上"><a href="#遊戲實況在遊戲開發上" class="headerlink" title="遊戲實況在遊戲開發上"></a>遊戲實況在遊戲開發上</h2><ul>
-<li>創立頻道，與玩家建立連結</li>
-<li>可以將玩家意見做為參考</li>
-<li>如果不想看玩家意見，這段可以無視:)</li>
-</ul>
-<h2 id="遊戲實況主選擇對的遊戲類型與平台來宣傳"><a href="#遊戲實況主選擇對的遊戲類型與平台來宣傳" class="headerlink" title="遊戲實況主選擇對的遊戲類型與平台來宣傳"></a>遊戲實況主選擇對的遊戲類型與平台來宣傳</h2><ul>
-<li>選擇符合自己觀眾口味的遊戲類型</li>
-<li>選擇流量夠多、夠穩定的平台來宣傳</li>
-</ul>
-<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/GclNOlMGiAc">https://youtu.be/GclNOlMGiAc</a></p>
-]]></content>
-      <categories>
-        <category>TGDF2020_台北遊戲開發者論壇</category>
-      </categories>
-      <tags>
-        <tag>TGDF2020</tag>
-        <tag>TGDF台北遊戲開發者論壇</tag>
-        <tag>遊戲行銷與商務</tag>
-        <tag>社群經營</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【TGDF2020】人文科系的我進入遊戲業實習是否搞錯了什麼？</title>
-    <url>/2020/07/14/TGDF2020_Did-I-make-a-mistake-when-I-entered-game-industry-internship-in-the-humanities-department/</url>
-    <content><![CDATA[<p>講者： 許禎</p>
-<span id="more"></span>
-
-<h2 id="求職準備"><a href="#求職準備" class="headerlink" title="求職準備"></a>求職準備</h2><ol>
-<li>確認目標<ul>
-<li>職涯探索</li>
-<li>技能培養</li>
-<li>認識業界</li>
-<li>累積作品</li>
-</ul>
-</li>
-<li>鎖定目標<ul>
-<li>從官方FB看到職缺消息<ul>
-<li>因為很多獨立遊戲公司為省經費，所以會在社群徵才</li>
-</ul>
-</li>
-<li>調查公司作品&amp;團隊成員</li>
-<li>仔細研讀Job Description(JD)</li>
-</ul>
-</li>
-<li>根據JD撰寫履歷</li>
-<li>總結來說<ul>
-<li>量身打造、踏實可行的方案</li>
-<li>時時不忘推薦自己</li>
-<li>展現自己的思考和用心</li>
-<li>準備不嫌多，只怕不夠多</li>
-</ul>
-</li>
-</ol>
-<h2 id="正式實習"><a href="#正式實習" class="headerlink" title="正式實習"></a>正式實習</h2><ul>
-<li>工作內容&amp;實習生培訓<ul>
-<li>負責協助「一切除了遊戲開發以外」的事情<br>  <img src="https://i.imgur.com/hyKjshk.png"></li>
-<li>團隊合作的工作模式</li>
-<li>任務導向、實戰性的實習生生活<br>  視公司當下需求決定業務，沒有嚴謹實習生成長計劃</li>
-<li>自由的風氣與自主的方向</li>
-</ul>
-</li>
-</ul>
-<h2 id="補充"><a href="#補充" class="headerlink" title="補充"></a>補充</h2><p>線上直播連結：<a href="https://youtu.be/pHhjtEqoaBQ">https://youtu.be/pHhjtEqoaBQ</a><br>講者Medium文章：<a href="https://medium.com/@rubyhsu11095/tgdf2020-talk-8d1cb76ebb5b">【TGDF2020】人文科系的我進入遊戲業實習是否搞錯了什麼？</a></p>
-]]></content>
-      <categories>
-        <category>TGDF2020_台北遊戲開發者論壇</category>
-      </categories>
-      <tags>
-        <tag>TGDF2020</tag>
-        <tag>TGDF台北遊戲開發者論壇</tag>
-        <tag>遊戲行銷與商務</tag>
-        <tag>職涯發展</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Blog更新日誌</title>
-    <url>/2021/02/05/Note/</url>
-    <content><![CDATA[<p>Update log and TODO list in blog</p>
-<span id="more"></span>
-
-<h1 id="Update-Log"><a href="#Update-Log" class="headerlink" title="Update Log"></a>Update Log</h1><p>2021/02/05</p>
-<ul>
-<li>利用Hexo框架架設Blog</li>
-<li>選用NexT主題</li>
-<li>Plugin:<ul>
-<li>Gitalk評論系統</li>
-<li>live2D看板娘</li>
-<li>…</li>
-</ul>
-</li>
-</ul>
-<p>2021/02/15</p>
-<ul>
-<li>將之前位於HackMD的議程筆記移植完畢</li>
-</ul>
-<p>2021/03/12 </p>
-<ul>
-<li>新增Dark/Light Mode切換按鈕</li>
-<li>新增moon-menu插件（右下角自訂按鈕）</li>
-<li>暫時將Live2D看板娘說話功能刪除</li>
-</ul>
-<p>2021/03/21</p>
-<ul>
-<li>掛上RSS訂閱按鍵</li>
-</ul>
-<p>2021/03/24</p>
-<ul>
-<li>補齊About內容</li>
-<li>新增留言板區塊</li>
-</ul>
-<hr>
-<h1 id="Maybe-TODO"><a href="#Maybe-TODO" class="headerlink" title="Maybe TODO"></a>Maybe TODO</h1><h5 id="Tags-Archives頁面"><a href="#Tags-Archives頁面" class="headerlink" title="Tags/Archives頁面"></a>Tags/Archives頁面</h5><ol>
-<li>樣式改寫（如果有時間的話，放著也無妨）</li>
-</ol>
-<h5 id="Live2D看板娘"><a href="#Live2D看板娘" class="headerlink" title="Live2D看板娘"></a>Live2D看板娘</h5><ol>
-<li>繁中化</li>
-<li>改寫功能，套用自己Blog功能</li>
-<li>屬於自己的看板娘<strong>（這可以未來再改）</strong></li>
-</ol>
-<h5 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h5><ol>
-<li>找一些有用的Plugin來套並改寫</li>
-<li>自己想功能來寫看看（有時間的話）</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Blog更新日誌</category>
-      </categories>
-      <tags>
-        <tag>Blog更新日誌</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【TGDF2020】如何利用友善與有效率的 QA 流程來降低溝通成本</title>
-    <url>/2020/07/14/TGDF2020_How-to-use-friendly-and-efficiently-Q-A-to-reduce-development-costs/</url>
+    <url>/2020/07/11/TGDF2020_How-to-use-friendly-and-efficiently-Q-A-to-reduce-development-costs/</url>
     <content><![CDATA[<p>講者: 沈建佑</p>
 <span id="more"></span>
 
@@ -352,8 +74,411 @@
       </tags>
   </entry>
   <entry>
+    <title>【TGDF2020】Substance PBR 材質解析 ─ 遊戲材質的下一個革命</title>
+    <url>/2020/07/11/TGDF2020_SubstancePBR/</url>
+    <content><![CDATA[<p>講者: 嚴美子</p>
+<p>Adobe一個可以用來做模型Texture繪製的軟體，功能強大…</p>
+<span id="more"></span>
+
+<h2 id="Substance可用於"><a href="#Substance可用於" class="headerlink" title="Substance可用於"></a>Substance可用於</h2><ol>
+<li>資產開發Asset</li>
+<li>材質開發Material、Texture等<strong>（主要）</strong></li>
+</ol>
+<h2 id="Substance支援以下開發軟體"><a href="#Substance支援以下開發軟體" class="headerlink" title="Substance支援以下開發軟體"></a>Substance支援以下開發軟體</h2><p><img src="https://i.imgur.com/bCGdiGK.png"></p>
+<h2 id="Substance工作層級"><a href="#Substance工作層級" class="headerlink" title="Substance工作層級"></a>Substance工作層級</h2><p><img src="https://i.imgur.com/vk6g4BH.png"></p>
+<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/swLPZlyQ9Z4">https://youtu.be/swLPZlyQ9Z4</a></p>
+]]></content>
+      <categories>
+        <category>TGDF2020_台北遊戲開發者論壇</category>
+      </categories>
+      <tags>
+        <tag>TGDF2020</tag>
+        <tag>TGDF台北遊戲開發者論壇</tag>
+        <tag>美術工具</tag>
+        <tag>Texture</tag>
+        <tag>Adobe Substance</tag>
+        <tag>軟體介紹</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【TGDF2020】人文科系的我進入遊戲業實習是否搞錯了什麼？</title>
+    <url>/2020/07/11/TGDF2020_Did-I-make-a-mistake-when-I-entered-game-industry-internship-in-the-humanities-department/</url>
+    <content><![CDATA[<p>講者： 許禎</p>
+<span id="more"></span>
+
+<h2 id="求職準備"><a href="#求職準備" class="headerlink" title="求職準備"></a>求職準備</h2><ol>
+<li>確認目標<ul>
+<li>職涯探索</li>
+<li>技能培養</li>
+<li>認識業界</li>
+<li>累積作品</li>
+</ul>
+</li>
+<li>鎖定目標<ul>
+<li>從官方FB看到職缺消息<ul>
+<li>因為很多獨立遊戲公司為省經費，所以會在社群徵才</li>
+</ul>
+</li>
+<li>調查公司作品&amp;團隊成員</li>
+<li>仔細研讀Job Description(JD)</li>
+</ul>
+</li>
+<li>根據JD撰寫履歷</li>
+<li>總結來說<ul>
+<li>量身打造、踏實可行的方案</li>
+<li>時時不忘推薦自己</li>
+<li>展現自己的思考和用心</li>
+<li>準備不嫌多，只怕不夠多</li>
+</ul>
+</li>
+</ol>
+<h2 id="正式實習"><a href="#正式實習" class="headerlink" title="正式實習"></a>正式實習</h2><ul>
+<li>工作內容&amp;實習生培訓<ul>
+<li>負責協助「一切除了遊戲開發以外」的事情<br>  <img src="https://i.imgur.com/hyKjshk.png"></li>
+<li>團隊合作的工作模式</li>
+<li>任務導向、實戰性的實習生生活<br>  視公司當下需求決定業務，沒有嚴謹實習生成長計劃</li>
+<li>自由的風氣與自主的方向</li>
+</ul>
+</li>
+</ul>
+<h2 id="補充"><a href="#補充" class="headerlink" title="補充"></a>補充</h2><p>線上直播連結：<a href="https://youtu.be/pHhjtEqoaBQ">https://youtu.be/pHhjtEqoaBQ</a><br>講者Medium文章：<a href="https://medium.com/@rubyhsu11095/tgdf2020-talk-8d1cb76ebb5b">【TGDF2020】人文科系的我進入遊戲業實習是否搞錯了什麼？</a></p>
+]]></content>
+      <categories>
+        <category>TGDF2020_台北遊戲開發者論壇</category>
+      </categories>
+      <tags>
+        <tag>TGDF2020</tag>
+        <tag>TGDF台北遊戲開發者論壇</tag>
+        <tag>遊戲行銷與商務</tag>
+        <tag>職涯發展</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【TGDF2020】從團隊到公司：那些你總要面對的事</title>
+    <url>/2020/07/11/TGDF2020_from-group-to-company/</url>
+    <content><![CDATA[<p>講者：高偉家</p>
+<span id="more"></span>
+
+<h3 id="獨立遊戲行銷"><a href="#獨立遊戲行銷" class="headerlink" title="獨立遊戲行銷"></a>獨立遊戲行銷</h3><p>行銷沒有標準答案；釐清「目的」，可以不用是立刻實現的目的</p>
+<h4 id="社群媒體平台"><a href="#社群媒體平台" class="headerlink" title="社群媒體平台"></a>社群媒體平台</h4><ul>
+<li>維持貼文</li>
+<li>保持互動</li>
+<li>關注數據表現</li>
+</ul>
+<h4 id="玩家社群經營"><a href="#玩家社群經營" class="headerlink" title="玩家社群經營"></a>玩家社群經營</h4><ul>
+<li>討論區、DC、Steam玩家社群</li>
+<li>引發討論，喚起好奇心</li>
+<li>正向、理性態度處理</li>
+</ul>
+<h4 id="內容行銷"><a href="#內容行銷" class="headerlink" title="內容行銷"></a>內容行銷</h4><ul>
+<li>文字、圖像或影音等</li>
+<li>EX: 開發日記、技術分享等</li>
+<li>提升信賴、建立形象</li>
+</ul>
+<h4 id="網紅口碑行銷"><a href="#網紅口碑行銷" class="headerlink" title="網紅口碑行銷"></a>網紅口碑行銷</h4><ul>
+<li>體驗試玩、評測</li>
+</ul>
+<h4 id="展會-amp-活動"><a href="#展會-amp-活動" class="headerlink" title="展會&amp;活動"></a>展會&amp;活動</h4><ul>
+<li>提升知名度，與其他開發者 or 發行商交流</li>
+<li>報名競賽，透過第三方的評價佐證品質</li>
+</ul>
+<h4 id="品牌行銷"><a href="#品牌行銷" class="headerlink" title="品牌行銷"></a>品牌行銷</h4><ul>
+<li>建立消費者信賴</li>
+<li>打造品牌形象</li>
+</ul>
+<h3 id="獨立遊戲發行"><a href="#獨立遊戲發行" class="headerlink" title="獨立遊戲發行"></a>獨立遊戲發行</h3><h4 id="發行商是啥？"><a href="#發行商是啥？" class="headerlink" title="發行商是啥？"></a>發行商是啥？</h4><ul>
+<li>全球/區域發行你的遊戲，有時也可能是特定平台</li>
+</ul>
+<h4 id="發行商能提供的協助"><a href="#發行商能提供的協助" class="headerlink" title="發行商能提供的協助"></a>發行商能提供的協助</h4><ul>
+<li>$$方面的資源</li>
+<li>行銷推廣/作品曝光</li>
+<li>遊戲內容在地化</li>
+<li>修改文本語句流暢、喜歡直向橫向、特定文化修改</li>
+<li>在地支援<ul>
+<li>發行區域內的客戶服務、錯誤回應應對、法律問題等</li>
+</ul>
+</li>
+</ul>
+<p><img src="https://i.imgur.com/6txscEm.png"></p>
+<h4 id="如何找到發行商？"><a href="#如何找到發行商？" class="headerlink" title="如何找到發行商？"></a>如何找到發行商？</h4><ul>
+<li>主動上網去找</li>
+<li>透過現下活動認識或業界人脈轉介</li>
+<li>寫mail表明來意</li>
+</ul>
+<h4 id="步驟"><a href="#步驟" class="headerlink" title="步驟"></a>步驟</h4><ul>
+<li>「評估」發行商是否為自己所需<ul>
+<li>平台<ol>
+<li>發行商使用的平台之玩家社群</li>
+<li>平台流量</li>
+</ol>
+</li>
+<li>風格</li>
+<li>類型<br>  發行商以往的作品風格與類型</li>
+<li>業界風評</li>
+<li>過往實績</li>
+<li>合約條件</li>
+</ul>
+</li>
+<li>準備開始行動<ul>
+<li>歸納好目標&amp;慾望<br>  對自己來說最重要的是什麼?</li>
+<li>安排閃光點和你的籌碼<br>  了解自己的優點在哪，著重在該地方</li>
+<li>謹慎以待做好萬全準備</li>
+</ul>
+</li>
+</ul>
+<h3 id="關於-的問題-以補助為例"><a href="#關於-的問題-以補助為例" class="headerlink" title="關於$$的問題(以補助為例)"></a>關於$$的問題(以補助為例)</h3><p><img src="https://i.imgur.com/W6bknnP.png"><br>常見的作業流程</p>
+<ol>
+<li>提交申請</li>
+<li>資格審查</li>
+<li>簡報提案</li>
+<li>簽約階段，計畫撥款</li>
+<li>執行階段，計畫查證</li>
+<li>結案，成效追蹤</li>
+</ol>
+<h3 id="從團隊到公司"><a href="#從團隊到公司" class="headerlink" title="從團隊到公司"></a>從團隊到公司</h3><ul>
+<li>公司的強制力</li>
+<li>公司的組織結構</li>
+<li>公司的人員更迭</li>
+<li>公司的機密保護</li>
+<li>公司的協作模式</li>
+<li>公司的永續經營</li>
+<li>公司的規範</li>
+<li>好的態度</li>
+</ul>
+]]></content>
+      <categories>
+        <category>TGDF2020_台北遊戲開發者論壇</category>
+      </categories>
+      <tags>
+        <tag>TGDF2020</tag>
+        <tag>TGDF台北遊戲開發者論壇</tag>
+        <tag>遊戲行銷與商務</tag>
+        <tag>遊戲開發補助</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【TGDF2020】從負數到零，以《迷霧國度》為例，聊遊戲開發的大失敗與再起</title>
+    <url>/2020/07/11/TGDF2020_from-negative-to-zero/</url>
+    <content><![CDATA[<p>講者: 周子修</p>
+<span id="more"></span>
+
+<h2 id="獨立開發的市場定位"><a href="#獨立開發的市場定位" class="headerlink" title="獨立開發的市場定位"></a>獨立開發的市場定位</h2><ul>
+<li>講者想說的話：<ul>
+<li>不要想著一發入魂，要想二次、三次甚至四次</li>
+<li>活著，且不斷朝目標前進</li>
+<li>走過的路一定有「回報」</li>
+</ul>
+</li>
+<li>淺談遊戲立項與目標設定<ul>
+<li>做你能做的遊戲</li>
+<li>在小的市場都足夠餵飽你</li>
+<li>可以做個自我檢查表<br>  ex:<br>  <img src="https://i.imgur.com/8jBjAyi.png"></li>
+</ul>
+</li>
+</ul>
+<h2 id="資源控管"><a href="#資源控管" class="headerlink" title="資源控管"></a>資源控管</h2><ul>
+<li>停損<ul>
+<li>將資源花在刀口上</li>
+<li>視點拉到團隊目標，而非單一專案</li>
+<li>確立標準&amp;檢查點</li>
+<li>有彈性，但不能沒有規劃</li>
+<li>猶豫就會敗北</li>
+<li>ex:<br><img src="https://i.imgur.com/sCgnOPL.png"></li>
+</ul>
+</li>
+<li>資源控管<ul>
+<li>有限的時間和資源下達成目標</li>
+<li>5/5開發法則(原先是7/3開發法則)<ul>
+<li>5成開發，5成優化</li>
+<li>認為應先快速打出雛形，先有東西出來，再慢慢優化</li>
+</ul>
+</li>
+<li>先求有再求好</li>
+<li>分清「必要」與「想要」</li>
+<li>小心沉沒成本的陷阱<ul>
+<li>回歸停損的概念</li>
+</ul>
+</li>
+<li>小工具<ul>
+<li>願望清單</li>
+<li>敏捷開發+看板<br>  進度看板、QA看板等</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="團隊管理與自我定位"><a href="#團隊管理與自我定位" class="headerlink" title="團隊管理與自我定位"></a>團隊管理與自我定位</h2><ul>
+<li>將團隊視為一個不斷變動的有機體</li>
+<li>公歸公、私歸私</li>
+<li>認清想做、能做和該做的事情</li>
+<li>留「思考」的時間給自己</li>
+<li>記住自己不是一個人，在蠻幹前先求援</li>
+<li>永遠對自己誠實</li>
+</ul>
+<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/2nCYIx3UAAA">https://youtu.be/2nCYIx3UAAA</a></p>
+]]></content>
+      <categories>
+        <category>TGDF2020_台北遊戲開發者論壇</category>
+      </categories>
+      <tags>
+        <tag>TGDF2020</tag>
+        <tag>TGDF台北遊戲開發者論壇</tag>
+        <tag>製程與管理</tag>
+        <tag>失敗經驗分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【TGDF2020】淺談訂閱式、獨立集資與國內外平台選擇</title>
+    <url>/2020/07/11/TGDF2020_subscription-and-independent-fund-raising/</url>
+    <content><![CDATA[<p>講者: 鄭祤呈</p>
+<span id="more"></span>
+
+<h2 id="如何選擇集資平台"><a href="#如何選擇集資平台" class="headerlink" title="如何選擇集資平台?"></a>如何選擇集資平台?</h2><p><img src="https://i.imgur.com/zz1KYWi.png"></p>
+<h2 id="集資發起的評估"><a href="#集資發起的評估" class="headerlink" title="集資發起的評估"></a>集資發起的評估</h2><p><img src="https://i.imgur.com/FR5DvPk.jpg"></p>
+<h2 id="群眾集資準備階段"><a href="#群眾集資準備階段" class="headerlink" title="群眾集資準備階段"></a>群眾集資準備階段</h2><p><img src="https://i.imgur.com/gGQ6z60.jpg"></p>
+<h2 id="三大重點整理"><a href="#三大重點整理" class="headerlink" title="三大重點整理"></a>三大重點整理</h2><p><img src="https://i.imgur.com/7BLZq9G.jpg"></p>
+<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/-PEAwaM9Ep4">https://youtu.be/-PEAwaM9Ep4</a></p>
+]]></content>
+      <categories>
+        <category>TGDF2020_台北遊戲開發者論壇</category>
+      </categories>
+      <tags>
+        <tag>TGDF2020</tag>
+        <tag>TGDF台北遊戲開發者論壇</tag>
+        <tag>遊戲行銷與商務</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【TGDF2020】蛤？遊戲還沒有開始做每個月就有收益是不是搞錯了什麼！？</title>
+    <url>/2020/07/11/TGDF2020_subscription-share/</url>
+    <content><![CDATA[<p>講者: Kuro<br>P.S. 講者是18+國產遊戲《獸人按摩店》開發者</p>
+<span id="more"></span>
+
+<h2 id="訂閱制的好處"><a href="#訂閱制的好處" class="headerlink" title="訂閱制的好處"></a>訂閱制的好處</h2><ul>
+<li>早期確認目標群眾</li>
+<li>快速打磨專案<ul>
+<li>有訂閱者的壓力，不會讓自己太怠惰</li>
+</ul>
+</li>
+<li>減少開發壓力<ul>
+<li>因為訂閱制，收入高的話可以餵飽自己</li>
+</ul>
+</li>
+<li>早期持續曝光</li>
+</ul>
+<h2 id="適合執行訂閱制的專案類型"><a href="#適合執行訂閱制的專案類型" class="headerlink" title="適合執行訂閱制的專案類型"></a>適合執行訂閱制的專案類型</h2><ul>
+<li>忠誠度高<ul>
+<li>對某種類型遊戲感興趣者<ul>
+<li>FPS、冒險、日系…等</li>
+</ul>
+</li>
+<li>對某種體型角色感興趣者<ul>
+<li>EX: 蘿莉控、獸控、貓耳控…等</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>高品質專案<ul>
+<li>開發很久沒關係，大多乾爹都可以等<ul>
+<li>可以1個人花5年開發個屌炸天遊戲</li>
+<li>只要最後有成品出來、定期更新就沒什麼大問題</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>成人遊戲<ul>
+<li>現今很多成人遊戲、CG圖會透過會員機制來解鎖，也就是訂閱制</li>
+</ul>
+</li>
+<li>小眾市場</li>
+</ul>
+<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/jnneeT3Mma8">https://youtu.be/jnneeT3Mma8</a></p>
+]]></content>
+      <categories>
+        <category>TGDF2020_台北遊戲開發者論壇</category>
+      </categories>
+      <tags>
+        <tag>TGDF2020</tag>
+        <tag>TGDF台北遊戲開發者論壇</tag>
+        <tag>遊戲行銷與商務</tag>
+        <tag>訂閱制</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【TGDF2020】我也可以當實況主嗎？</title>
+    <url>/2020/07/12/TGDF2020_Can-I-also-become-the-streamer/</url>
+    <content><![CDATA[<p>講者: 汪光磊（6tan）</p>
+<span id="more"></span>
+
+<h2 id="遊戲實況在行銷上"><a href="#遊戲實況在行銷上" class="headerlink" title="遊戲實況在行銷上"></a>遊戲實況在行銷上</h2><ul>
+<li>優勢<ul>
+<li>相對其他媒體，較能即時和觀眾互動</li>
+<li>在互動下可以激起更多玩家</li>
+<li>費用相對Youtuber低</li>
+</ul>
+</li>
+<li>弱勢<ul>
+<li>只能發生在當下，錯過就沒辦法了<ul>
+<li>因此建議剪輯精華，在網路留下足跡</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="遊戲實況在遊戲開發上"><a href="#遊戲實況在遊戲開發上" class="headerlink" title="遊戲實況在遊戲開發上"></a>遊戲實況在遊戲開發上</h2><ul>
+<li>創立頻道，與玩家建立連結</li>
+<li>可以將玩家意見做為參考</li>
+<li>如果不想看玩家意見，這段可以無視:)</li>
+</ul>
+<h2 id="遊戲實況主選擇對的遊戲類型與平台來宣傳"><a href="#遊戲實況主選擇對的遊戲類型與平台來宣傳" class="headerlink" title="遊戲實況主選擇對的遊戲類型與平台來宣傳"></a>遊戲實況主選擇對的遊戲類型與平台來宣傳</h2><ul>
+<li>選擇符合自己觀眾口味的遊戲類型</li>
+<li>選擇流量夠多、夠穩定的平台來宣傳</li>
+</ul>
+<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/GclNOlMGiAc">https://youtu.be/GclNOlMGiAc</a></p>
+]]></content>
+      <categories>
+        <category>TGDF2020_台北遊戲開發者論壇</category>
+      </categories>
+      <tags>
+        <tag>TGDF2020</tag>
+        <tag>TGDF台北遊戲開發者論壇</tag>
+        <tag>遊戲行銷與商務</tag>
+        <tag>社群經營</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【APGS2021】The power of &quot;kyaaa&quot; in game production</title>
+    <url>/2021/01/29/APGS2021_The-power-of-kyaaa-in-game-production/</url>
+    <content><![CDATA[<p>講者：Shawn Toh／BATTLEBREW PRODUCTIONS</p>
+<span id="more"></span>
+
+<h1 id="COOL-v-s-HOT-v-s-CUTE（風格上）"><a href="#COOL-v-s-HOT-v-s-CUTE（風格上）" class="headerlink" title="COOL v.s. HOT v.s. CUTE（風格上）"></a>COOL v.s. HOT v.s. CUTE（風格上）</h1><p><img src="https://i.imgur.com/iLq5PfU.jpg"></p>
+<ul>
+<li><p>大部分的遊戲都是結合好幾種特色，但你通常還是得選擇一個主軸。<br>（Most games require a mixture, but usually you choose a main direction.）</p>
+</li>
+<li><p>上面的圖就像一個滑軌，會隨著你的風格改變移來移去，並根據你在滑軌上的位置，可以觸及到不同的受眾。</p>
+</li>
+<li><p>取決於你的做法不同，玩家的反應也會兩極化，那可能就會面臨審查相關的問題。</p>
+</li>
+</ul>
+<h1 id="上面的三角形每個角的優缺點"><a href="#上面的三角形每個角的優缺點" class="headerlink" title="上面的三角形每個角的優缺點"></a>上面的三角形每個角的優缺點</h1><h2 id="COOL"><a href="#COOL" class="headerlink" title="COOL"></a>COOL</h2><p><img src="https://i.imgur.com/Z5ZR1PE.png"></p>
+<h2 id="HOT"><a href="#HOT" class="headerlink" title="HOT"></a>HOT</h2><ul>
+<li>最直接的是Hentai Game，通常許多這類型的遊戲會結合一些酷或可愛的元素。</li>
+</ul>
+<p><img src="https://i.imgur.com/YGzonQe.png"></p>
+<h2 id="CUTE"><a href="#CUTE" class="headerlink" title="CUTE"></a>CUTE</h2><p><img src="https://i.imgur.com/r0e4WOA.png"></p>
+]]></content>
+      <categories>
+        <category>APGS2021_亞太國際高峰會</category>
+      </categories>
+      <tags>
+        <tag>APGS2021</tag>
+        <tag>APGS亞太國際高峰會</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【TGDF2020】《惡靈古堡：反抗》— 非對稱對戰遊戲開發經驗分享</title>
-    <url>/2020/07/14/TGDF2020_RESIDENT-EVIL-RESISTANCE-development-experience-share/</url>
+    <url>/2020/07/12/TGDF2020_RESIDENT-EVIL-RESISTANCE-development-experience-share/</url>
     <content><![CDATA[<p>講者: 李健源, AL Yang</p>
 <p>合作模式<br>CAPCOM：發行商<br>泥巴娛樂：開發商</p>
 <span id="more"></span>
@@ -472,209 +597,8 @@
       </tags>
   </entry>
   <entry>
-    <title>【TGDF2020】Substance PBR 材質解析 ─ 遊戲材質的下一個革命</title>
-    <url>/2020/07/14/TGDF2020_SubstancePBR/</url>
-    <content><![CDATA[<p>講者: 嚴美子</p>
-<p>Adobe一個可以用來做模型Texture繪製的軟體，功能強大…</p>
-<span id="more"></span>
-
-<h2 id="Substance可用於"><a href="#Substance可用於" class="headerlink" title="Substance可用於"></a>Substance可用於</h2><ol>
-<li>資產開發Asset</li>
-<li>材質開發Material、Texture等<strong>（主要）</strong></li>
-</ol>
-<h2 id="Substance支援以下開發軟體"><a href="#Substance支援以下開發軟體" class="headerlink" title="Substance支援以下開發軟體"></a>Substance支援以下開發軟體</h2><p><img src="https://i.imgur.com/bCGdiGK.png"></p>
-<h2 id="Substance工作層級"><a href="#Substance工作層級" class="headerlink" title="Substance工作層級"></a>Substance工作層級</h2><p><img src="https://i.imgur.com/vk6g4BH.png"></p>
-<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/swLPZlyQ9Z4">https://youtu.be/swLPZlyQ9Z4</a></p>
-]]></content>
-      <categories>
-        <category>TGDF2020_台北遊戲開發者論壇</category>
-      </categories>
-      <tags>
-        <tag>TGDF2020</tag>
-        <tag>TGDF台北遊戲開發者論壇</tag>
-        <tag>美術工具</tag>
-        <tag>Texture</tag>
-        <tag>Adobe Substance</tag>
-        <tag>軟體介紹</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【TGDF2020】從負數到零，以《迷霧國度》為例，聊遊戲開發的大失敗與再起</title>
-    <url>/2020/07/14/TGDF2020_from-negative-to-zero/</url>
-    <content><![CDATA[<p>講者: 周子修</p>
-<span id="more"></span>
-
-<h2 id="獨立開發的市場定位"><a href="#獨立開發的市場定位" class="headerlink" title="獨立開發的市場定位"></a>獨立開發的市場定位</h2><ul>
-<li>講者想說的話：<ul>
-<li>不要想著一發入魂，要想二次、三次甚至四次</li>
-<li>活著，且不斷朝目標前進</li>
-<li>走過的路一定有「回報」</li>
-</ul>
-</li>
-<li>淺談遊戲立項與目標設定<ul>
-<li>做你能做的遊戲</li>
-<li>在小的市場都足夠餵飽你</li>
-<li>可以做個自我檢查表<br>  ex:<br>  <img src="https://i.imgur.com/8jBjAyi.png"></li>
-</ul>
-</li>
-</ul>
-<h2 id="資源控管"><a href="#資源控管" class="headerlink" title="資源控管"></a>資源控管</h2><ul>
-<li>停損<ul>
-<li>將資源花在刀口上</li>
-<li>視點拉到團隊目標，而非單一專案</li>
-<li>確立標準&amp;檢查點</li>
-<li>有彈性，但不能沒有規劃</li>
-<li>猶豫就會敗北</li>
-<li>ex:<br><img src="https://i.imgur.com/sCgnOPL.png"></li>
-</ul>
-</li>
-<li>資源控管<ul>
-<li>有限的時間和資源下達成目標</li>
-<li>5/5開發法則(原先是7/3開發法則)<ul>
-<li>5成開發，5成優化</li>
-<li>認為應先快速打出雛形，先有東西出來，再慢慢優化</li>
-</ul>
-</li>
-<li>先求有再求好</li>
-<li>分清「必要」與「想要」</li>
-<li>小心沉沒成本的陷阱<ul>
-<li>回歸停損的概念</li>
-</ul>
-</li>
-<li>小工具<ul>
-<li>願望清單</li>
-<li>敏捷開發+看板<br>  進度看板、QA看板等</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h2 id="團隊管理與自我定位"><a href="#團隊管理與自我定位" class="headerlink" title="團隊管理與自我定位"></a>團隊管理與自我定位</h2><ul>
-<li>將團隊視為一個不斷變動的有機體</li>
-<li>公歸公、私歸私</li>
-<li>認清想做、能做和該做的事情</li>
-<li>留「思考」的時間給自己</li>
-<li>記住自己不是一個人，在蠻幹前先求援</li>
-<li>永遠對自己誠實</li>
-</ul>
-<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/2nCYIx3UAAA">https://youtu.be/2nCYIx3UAAA</a></p>
-]]></content>
-      <categories>
-        <category>TGDF2020_台北遊戲開發者論壇</category>
-      </categories>
-      <tags>
-        <tag>TGDF2020</tag>
-        <tag>TGDF台北遊戲開發者論壇</tag>
-        <tag>製程與管理</tag>
-        <tag>失敗經驗分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【TGDF2020】從團隊到公司：那些你總要面對的事</title>
-    <url>/2020/07/14/TGDF2020_from-group-to-company/</url>
-    <content><![CDATA[<p>講者：高偉家</p>
-<span id="more"></span>
-
-<h3 id="獨立遊戲行銷"><a href="#獨立遊戲行銷" class="headerlink" title="獨立遊戲行銷"></a>獨立遊戲行銷</h3><p>行銷沒有標準答案；釐清「目的」，可以不用是立刻實現的目的</p>
-<h4 id="社群媒體平台"><a href="#社群媒體平台" class="headerlink" title="社群媒體平台"></a>社群媒體平台</h4><ul>
-<li>維持貼文</li>
-<li>保持互動</li>
-<li>關注數據表現</li>
-</ul>
-<h4 id="玩家社群經營"><a href="#玩家社群經營" class="headerlink" title="玩家社群經營"></a>玩家社群經營</h4><ul>
-<li>討論區、DC、Steam玩家社群</li>
-<li>引發討論，喚起好奇心</li>
-<li>正向、理性態度處理</li>
-</ul>
-<h4 id="內容行銷"><a href="#內容行銷" class="headerlink" title="內容行銷"></a>內容行銷</h4><ul>
-<li>文字、圖像或影音等</li>
-<li>EX: 開發日記、技術分享等</li>
-<li>提升信賴、建立形象</li>
-</ul>
-<h4 id="網紅口碑行銷"><a href="#網紅口碑行銷" class="headerlink" title="網紅口碑行銷"></a>網紅口碑行銷</h4><ul>
-<li>體驗試玩、評測</li>
-</ul>
-<h4 id="展會-amp-活動"><a href="#展會-amp-活動" class="headerlink" title="展會&amp;活動"></a>展會&amp;活動</h4><ul>
-<li>提升知名度，與其他開發者 or 發行商交流</li>
-<li>報名競賽，透過第三方的評價佐證品質</li>
-</ul>
-<h4 id="品牌行銷"><a href="#品牌行銷" class="headerlink" title="品牌行銷"></a>品牌行銷</h4><ul>
-<li>建立消費者信賴</li>
-<li>打造品牌形象</li>
-</ul>
-<h3 id="獨立遊戲發行"><a href="#獨立遊戲發行" class="headerlink" title="獨立遊戲發行"></a>獨立遊戲發行</h3><h4 id="發行商是啥？"><a href="#發行商是啥？" class="headerlink" title="發行商是啥？"></a>發行商是啥？</h4><ul>
-<li>全球/區域發行你的遊戲，有時也可能是特定平台</li>
-</ul>
-<h4 id="發行商能提供的協助"><a href="#發行商能提供的協助" class="headerlink" title="發行商能提供的協助"></a>發行商能提供的協助</h4><ul>
-<li>$$方面的資源</li>
-<li>行銷推廣/作品曝光</li>
-<li>遊戲內容在地化</li>
-<li>修改文本語句流暢、喜歡直向橫向、特定文化修改</li>
-<li>在地支援<ul>
-<li>發行區域內的客戶服務、錯誤回應應對、法律問題等</li>
-</ul>
-</li>
-</ul>
-<p><img src="https://i.imgur.com/6txscEm.png"></p>
-<h4 id="如何找到發行商？"><a href="#如何找到發行商？" class="headerlink" title="如何找到發行商？"></a>如何找到發行商？</h4><ul>
-<li>主動上網去找</li>
-<li>透過現下活動認識或業界人脈轉介</li>
-<li>寫mail表明來意</li>
-</ul>
-<h4 id="步驟"><a href="#步驟" class="headerlink" title="步驟"></a>步驟</h4><ul>
-<li>「評估」發行商是否為自己所需<ul>
-<li>平台<ol>
-<li>發行商使用的平台之玩家社群</li>
-<li>平台流量</li>
-</ol>
-</li>
-<li>風格</li>
-<li>類型<br>  發行商以往的作品風格與類型</li>
-<li>業界風評</li>
-<li>過往實績</li>
-<li>合約條件</li>
-</ul>
-</li>
-<li>準備開始行動<ul>
-<li>歸納好目標&amp;慾望<br>  對自己來說最重要的是什麼?</li>
-<li>安排閃光點和你的籌碼<br>  了解自己的優點在哪，著重在該地方</li>
-<li>謹慎以待做好萬全準備</li>
-</ul>
-</li>
-</ul>
-<h3 id="關於-的問題-以補助為例"><a href="#關於-的問題-以補助為例" class="headerlink" title="關於$$的問題(以補助為例)"></a>關於$$的問題(以補助為例)</h3><p><img src="https://i.imgur.com/W6bknnP.png"><br>常見的作業流程</p>
-<ol>
-<li>提交申請</li>
-<li>資格審查</li>
-<li>簡報提案</li>
-<li>簽約階段，計畫撥款</li>
-<li>執行階段，計畫查證</li>
-<li>結案，成效追蹤</li>
-</ol>
-<h3 id="從團隊到公司"><a href="#從團隊到公司" class="headerlink" title="從團隊到公司"></a>從團隊到公司</h3><ul>
-<li>公司的強制力</li>
-<li>公司的組織結構</li>
-<li>公司的人員更迭</li>
-<li>公司的機密保護</li>
-<li>公司的協作模式</li>
-<li>公司的永續經營</li>
-<li>公司的規範</li>
-<li>好的態度</li>
-</ul>
-]]></content>
-      <categories>
-        <category>TGDF2020_台北遊戲開發者論壇</category>
-      </categories>
-      <tags>
-        <tag>TGDF2020</tag>
-        <tag>TGDF台北遊戲開發者論壇</tag>
-        <tag>遊戲行銷與商務</tag>
-        <tag>遊戲開發補助</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【TGDF2020】不著痕跡地催眠你</title>
-    <url>/2020/07/14/TGDF2020_hypnotize-you-without-a-trace/</url>
+    <url>/2020/07/12/TGDF2020_hypnotize-you-without-a-trace/</url>
     <content><![CDATA[<p>講者: 林昱廷<br>※ 此篇有大部分會從音樂人角度出發</p>
 <span id="more"></span>
 
@@ -706,80 +630,715 @@
       </tags>
   </entry>
   <entry>
-    <title>【TGDF2020】淺談訂閱式、獨立集資與國內外平台選擇</title>
-    <url>/2020/07/14/TGDF2020_subscription-and-independent-fund-raising/</url>
-    <content><![CDATA[<p>講者: 鄭祤呈</p>
+    <title>【APGS2021】Using third-party tools to lower indie development costs, a case of M.A.S.S. Builder</title>
+    <url>/2021/01/28/APGS2021_Using-third-party-tools-to-lower-indie-development-costs/</url>
+    <content><![CDATA[<p>講者：Nontawat Thanakiatkrai</p>
 <span id="more"></span>
 
-<h2 id="如何選擇集資平台"><a href="#如何選擇集資平台" class="headerlink" title="如何選擇集資平台?"></a>如何選擇集資平台?</h2><p><img src="https://i.imgur.com/zz1KYWi.png"></p>
-<h2 id="集資發起的評估"><a href="#集資發起的評估" class="headerlink" title="集資發起的評估"></a>集資發起的評估</h2><p><img src="https://i.imgur.com/FR5DvPk.jpg"></p>
-<h2 id="群眾集資準備階段"><a href="#群眾集資準備階段" class="headerlink" title="群眾集資準備階段"></a>群眾集資準備階段</h2><p><img src="https://i.imgur.com/gGQ6z60.jpg"></p>
-<h2 id="三大重點整理"><a href="#三大重點整理" class="headerlink" title="三大重點整理"></a>三大重點整理</h2><p><img src="https://i.imgur.com/7BLZq9G.jpg"></p>
-<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/-PEAwaM9Ep4">https://youtu.be/-PEAwaM9Ep4</a></p>
+<h2 id="Procedural-Generation（循序生成技術）"><a href="#Procedural-Generation（循序生成技術）" class="headerlink" title="Procedural Generation（循序生成技術）"></a>Procedural Generation（循序生成技術）</h2><ul>
+<li>透過程式產生隨機或特定規則的遊戲資源與物件的過程。</li>
+<li>提供無限的資源，從岩石、樹木與建築物等小型物件，到地形、山脈，甚至整個關卡都適用。</li>
+<li>網路上有許多用此技術開發的工具（e.g. Houdini、World Creator），而時機成熟後也可以自己開發。</li>
+</ul>
+<h2 id="Procedural-Generation-Example"><a href="#Procedural-Generation-Example" class="headerlink" title="Procedural Generation Example"></a>Procedural Generation Example</h2><ul>
+<li><p>低面數小型物件<br>以電纜線為例，透過隨機化，可以設定包括管內纜線數量、彎曲程度等，任何相似的東西都可以自行調整。<br><img src="https://i.imgur.com/lhU1boG.jpg"></p>
+</li>
+<li><p>高面數岩石資源<br>可以設定密度、大小和細緻程度，讓這些岩石在每個seed中可能都不一樣。<br>而稱作高面數的原因，因為這些岩石可以用來裝飾關卡，提供關卡深度和細節。<br><img src="https://i.imgur.com/NaGVjbz.jpg"></p>
+</li>
+<li><p>樹葉<br>如不用此技術，這些樹葉可能將耗費團隊大量時間為每一種類型的樹木建立library；如果使用此技術，我們就可以針對每一種關卡建立不同的樹葉類型，e.g. 雪山、森林or平原。<br><img src="https://i.imgur.com/G8moeCB.jpg"></p>
+</li>
+</ul>
 ]]></content>
       <categories>
-        <category>TGDF2020_台北遊戲開發者論壇</category>
+        <category>APGS2021_亞太國際高峰會</category>
       </categories>
       <tags>
-        <tag>TGDF2020</tag>
-        <tag>TGDF台北遊戲開發者論壇</tag>
-        <tag>遊戲行銷與商務</tag>
+        <tag>APGS2021</tag>
+        <tag>APGS亞太國際高峰會</tag>
+        <tag>Procedural Generation</tag>
       </tags>
   </entry>
   <entry>
-    <title>【TGDF2020】蛤？遊戲還沒有開始做每個月就有收益是不是搞錯了什麼！？</title>
-    <url>/2020/07/14/TGDF2020_subscription-share/</url>
-    <content><![CDATA[<p>講者: Kuro<br>P.S. 講者是18+國產遊戲《獸人按摩店》開發者</p>
+    <title>【APGS2021】Composing music for a VR historical game</title>
+    <url>/2021/01/29/APGS2021_Composing-music-for-a-VR-historical-game/</url>
+    <content><![CDATA[<p>講者：Aurelie Moiroud</p>
+<p>主要以自家VR遊戲《Lost Myths : Sons Of Ragnar》為經驗分享<br>時代背景：維京時期</p>
 <span id="more"></span>
 
-<h2 id="訂閱制的好處"><a href="#訂閱制的好處" class="headerlink" title="訂閱制的好處"></a>訂閱制的好處</h2><ul>
-<li>早期確認目標群眾</li>
-<li>快速打磨專案<ul>
-<li>有訂閱者的壓力，不會讓自己太怠惰</li>
+<h2 id="Inspiration-Sources"><a href="#Inspiration-Sources" class="headerlink" title="Inspiration Sources"></a>Inspiration Sources</h2><ul>
+<li>首先，必須找到靈感來源<br><img src="https://i.imgur.com/mpA2L4T.jpg"></li>
 </ul>
+<h3 id="Resources"><a href="#Resources" class="headerlink" title="Resources"></a>Resources</h3><h4 id="Master-Thesis"><a href="#Master-Thesis" class="headerlink" title="Master Thesis:"></a>Master Thesis:</h4><ul>
+<li><em>Chihiro Tsukamoto</em> - <strong>“What did they sound like? Reconstructing the music of the Viking Age.”</strong></li>
+<li>幫助講者在製作音樂時對還原度的追求</li>
+</ul>
+<h4 id="Website"><a href="#Website" class="headerlink" title="Website:"></a>Website:</h4><ul>
+<li><a href="http://www.vikinganswerlady.com/">www.vikinganswerlady.com</a></li>
+<li>網站上面的文章都為學者所寫，是個了解維京人不錯的資訊來源</li>
+</ul>
+<h4 id="Music"><a href="#Music" class="headerlink" title="Music:"></a>Music:</h4><ul>
+<li>Nordic folk music（e.g. 斯堪地那維亞民俗相關音樂）</li>
+<li>考古學家重建的音樂</li>
+</ul>
+<h4 id="Book"><a href="#Book" class="headerlink" title="Book:"></a>Book:</h4><ul>
+<li><strong>“A composer’s guide to game music”</strong> by <em>Winifred Phillips</em></li>
+<li><strong>“Music instinst”</strong> by <em>Philipp Ball</em></li>
+</ul>
+<h3 id="Challenges"><a href="#Challenges" class="headerlink" title="Challenges"></a>Challenges</h3><ul>
+<li><p>對歷史遊戲的作曲來說，最大的挑戰就是<strong>歷史研究</strong>，因為古代北方社會音樂相關的歷史資訊和事蹟真的很難找，很不幸的是完全找不到任何音樂作品的痕跡，很多樂器都失傳了。</p>
 </li>
-<li>減少開發壓力<ul>
-<li>因為訂閱制，收入高的話可以餵飽自己</li>
-</ul>
-</li>
-<li>早期持續曝光</li>
-</ul>
-<h2 id="適合執行訂閱制的專案類型"><a href="#適合執行訂閱制的專案類型" class="headerlink" title="適合執行訂閱制的專案類型"></a>適合執行訂閱制的專案類型</h2><ul>
-<li>忠誠度高<ul>
-<li>對某種類型遊戲感興趣者<ul>
-<li>FPS、冒險、日系…等</li>
-</ul>
-</li>
-<li>對某種體型角色感興趣者<ul>
-<li>EX: 蘿莉控、獸控、貓耳控…等</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>高品質專案<ul>
-<li>開發很久沒關係，大多乾爹都可以等<ul>
-<li>可以1個人花5年開發個屌炸天遊戲</li>
-<li>只要最後有成品出來、定期更新就沒什麼大問題</li>
-</ul>
+<li><p>而做為一個作曲家，創作出的音樂必須符合故事情境，也必須符合遊戲中正在發生的動作。</p>
 </li>
 </ul>
-</li>
-<li>成人遊戲<ul>
-<li>現今很多成人遊戲、CG圖會透過會員機制來解鎖，也就是訂閱制</li>
+<h3 id="Aim-of-the-music"><a href="#Aim-of-the-music" class="headerlink" title="Aim of the music"></a>Aim of the music</h3><ul>
+<li>音樂的目的是，創造一個讓玩家沉浸在維京時代，符合歷史時代但不一定完全還原的音樂環境。</li>
+<li>音樂也帶動遊戲的氣氛，希望他對情緒有所影響。</li>
+<li>也希望為每一個關卡創造不同的氣氛。</li>
+</ul>
+<h2 id="Production-Phase"><a href="#Production-Phase" class="headerlink" title="Production Phase"></a>Production Phase</h2><h3 id="Music-Genre"><a href="#Music-Genre" class="headerlink" title="Music Genre"></a>Music Genre</h3><p><img src="https://i.imgur.com/OlBA0PS.jpg"></p>
+<h3 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h3><ul>
+<li>編曲軟體：Ableton Live 10</li>
+<li>音源工具：EastWest, Hybrid 3, Native Instruments</li>
+<li>母帶處理：iZotope, OZONE 7</li>
+<li>音量儀表：FMOD Division 1.10.09</li>
+<li>音頻設計：Novation Launchkey 25 key MIDI Controller<ul>
+<li>（反正就是MIDI鍵盤 or MIDI控制器，自己習慣就好）</li>
 </ul>
 </li>
-<li>小眾市場</li>
 </ul>
-<h2 id="線上直播連結"><a href="#線上直播連結" class="headerlink" title="線上直播連結"></a>線上直播連結</h2><p><a href="https://youtu.be/jnneeT3Mma8">https://youtu.be/jnneeT3Mma8</a></p>
+<h3 id="Technique"><a href="#Technique" class="headerlink" title="Technique"></a>Technique</h3><p><img src="https://i.imgur.com/dOCbk9w.jpg"></p>
+<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>如果想為具備歷史元素的遊戲作曲，講者分享了一些他在做這些專案時學到的技巧</p>
+<ol>
+<li><strong>一定</strong>要研究書籍、文章、網站和學者論文，如果需要更多建議或幫助，就去連絡這些專家吧！</li>
+<li>多聽該時期的音樂 or 相似類型的音樂，協助獲得靈感。</li>
+<li><strong>要跟時常跟團隊溝通</strong>，問他們問題、展示成果、問他們意見以及問他們對音樂的感覺等等。</li>
+<li>探索不同的作曲技巧，來賦予自己的音樂生命和情感</li>
+</ol>
 ]]></content>
       <categories>
-        <category>TGDF2020_台北遊戲開發者論壇</category>
+        <category>APGS2021_亞太國際高峰會</category>
       </categories>
       <tags>
-        <tag>TGDF2020</tag>
-        <tag>TGDF台北遊戲開發者論壇</tag>
-        <tag>遊戲行銷與商務</tag>
-        <tag>訂閱制</tag>
+        <tag>APGS2021</tag>
+        <tag>APGS亞太國際高峰會</tag>
+        <tag>音樂音效</tag>
+        <tag>歷史遊戲開發經驗</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Blog更新日誌</title>
+    <url>/2021/02/05/UpdateLog/</url>
+    <content><![CDATA[<p>Update log and TODO list in blog</p>
+<span id="more"></span>
+
+<h1 id="Update-Log"><a href="#Update-Log" class="headerlink" title="Update Log"></a>Update Log</h1><p>2021/02/05</p>
+<ul>
+<li>利用Hexo框架架設Blog</li>
+<li>選用NexT主題</li>
+<li>Plugin:<ul>
+<li>Gitalk評論系統</li>
+<li>live2D看板娘</li>
+<li>…</li>
+</ul>
+</li>
+</ul>
+<p>2021/02/15</p>
+<ul>
+<li>將之前位於HackMD的議程筆記移植完畢</li>
+</ul>
+<p>2021/03/12 </p>
+<ul>
+<li>新增Dark/Light Mode切換按鈕</li>
+<li>新增moon-menu插件（右下角自訂按鈕）</li>
+<li>暫時將Live2D看板娘說話功能刪除</li>
+</ul>
+<p>2021/03/21</p>
+<ul>
+<li>掛上RSS訂閱按鍵</li>
+</ul>
+<p>2021/03/24</p>
+<ul>
+<li>補齊About內容</li>
+<li>新增留言板區塊</li>
+</ul>
+<p>2021/04/22</p>
+<ul>
+<li>為了作筆記，增加可以寫數學公式的Plugin : mathJax</li>
+</ul>
+<hr>
+<h1 id="Maybe-TODO"><a href="#Maybe-TODO" class="headerlink" title="Maybe TODO"></a>Maybe TODO</h1><h5 id="Tags-Archives頁面"><a href="#Tags-Archives頁面" class="headerlink" title="Tags/Archives頁面"></a>Tags/Archives頁面</h5><ol>
+<li>樣式改寫（如果有時間的話，放著也無妨）</li>
+</ol>
+<h5 id="Live2D看板娘"><a href="#Live2D看板娘" class="headerlink" title="Live2D看板娘"></a>Live2D看板娘</h5><ol>
+<li>繁中化</li>
+<li>改寫功能，套用自己Blog功能</li>
+<li>屬於自己的看板娘<strong>（這可以未來再改）</strong></li>
+</ol>
+<h5 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h5><ol>
+<li>找一些有用的Plugin來套並改寫</li>
+<li>自己想功能來寫看看（有時間的話）</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Blog更新日誌</category>
+      </categories>
+      <tags>
+        <tag>Blog更新日誌</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【System Software】 Chapter 1 - Background</title>
+    <url>/2021/04/22/System-Software-Chapter1/</url>
+    <content><![CDATA[<h2 id="Simplified-Instruction-Computer-簡化指令電腦-SIC"><a href="#Simplified-Instruction-Computer-簡化指令電腦-SIC" class="headerlink" title="Simplified Instruction Computer 簡化指令電腦(SIC)"></a>Simplified Instruction Computer 簡化指令電腦(SIC)</h2><ul>
+<li>SIC是一個<strong>假想的電腦</strong>，用來解釋系統程式的架構</li>
+<li>SIC有兩種版本<ul>
+<li>Standard model (<strong>SIC</strong>)</li>
+<li>Extension version (SIC/<strong>XE</strong>)<ul>
+<li>相比SIC，更多設備指令</li>
+<li>但更貴</li>
+<li>支持<strong>向上相容 (upward compatible)</strong> ，代表XE電腦可以執行SIC指令，但SIC電腦無法執行XE指令</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<span id="more"></span>
+
+<h3 id="SIC-Machine-Architecture"><a href="#SIC-Machine-Architecture" class="headerlink" title="SIC Machine Architecture"></a>SIC Machine Architecture</h3><h4 id="Memory"><a href="#Memory" class="headerlink" title="Memory"></a>Memory</h4><ul>
+<li>1 Bytes = 8 bits</li>
+<li><strong>1 Word = 3 Bytes (24 bits)</strong></li>
+<li>Total memory is <strong>32768 ($2^{15}$) bytes (32KB)</strong></li>
+</ul>
+<h4 id="Registers"><a href="#Registers" class="headerlink" title="Registers"></a>Registers</h4><table>
+<thead>
+<tr>
+<th align="center">Mnemonic</th>
+<th align="center">Number</th>
+<th align="left">Special use</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">A</td>
+<td align="center">0</td>
+<td align="left">累加(Accumulator) 暫存器 <br>用在算術運算</td>
+</tr>
+<tr>
+<td align="center">X</td>
+<td align="center">1</td>
+<td align="left">索引(Index) 暫存器 <br>用在定址</td>
+</tr>
+<tr>
+<td align="center">L</td>
+<td align="center">2</td>
+<td align="left">連結(Linkage) 暫存器 <br>用於儲存跳到副程式指令(Jump to Subroutine, JSUB)返回的位址</td>
+</tr>
+<tr>
+<td align="center">PC</td>
+<td align="center">8</td>
+<td align="left">程式計數器(Program counter) <br>儲存下一個要取出來執行的指令的位址</td>
+</tr>
+<tr>
+<td align="center">SW</td>
+<td align="center">9</td>
+<td align="left">狀態字組(Status word) <br>儲存不同的資訊，包括條件碼(Condition Code, CC)，主要是機器使用</td>
+</tr>
+</tbody></table>
+<h4 id="Data-Formats"><a href="#Data-Formats" class="headerlink" title="Data Formats"></a>Data Formats</h4><ul>
+<li>整數以24 bits(1 word)的二進制碼儲存</li>
+<li>用2的補數表示負數值</li>
+<li>字元以8 bits的ASCII Code儲存</li>
+<li>無浮點數表示法</li>
+</ul>
+<h4 id="Instruction-Formats"><a href="#Instruction-Formats" class="headerlink" title="Instruction Formats"></a>Instruction Formats</h4><p><img src="/images/System-Software-Chapter1/SIC_Instruction_Formats.png"><br>可拆分為</p>
+<ul>
+<li>Opcode(指令碼)：8 bits，剩下的位元數(24-15-1=8)</li>
+<li>X：1 bit，用來表示是否為索引定址模式(indexed-addressing mode)</li>
+<li>Address：15 bits，因為記憶體大小為$2^{15}$ bytes，因此15個bits就可以表示所有記憶體位置</li>
+</ul>
+<h4 id="Addressing-Modes"><a href="#Addressing-Modes" class="headerlink" title="Addressing Modes"></a>Addressing Modes</h4><table>
+<thead>
+<tr>
+<th>Mode</th>
+<th>Indication</th>
+<th>Target address calculation</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Direct</td>
+<td>x = 0</td>
+<td>TA = address</td>
+</tr>
+<tr>
+<td>Indexed</td>
+<td>x = 1</td>
+<td>TA = address + (X)</td>
+</tr>
+</tbody></table>
+<p>p.s. (X) = X暫存器內的值</p>
+<h4 id="Instruction-Set"><a href="#Instruction-Set" class="headerlink" title="Instruction Set"></a>Instruction Set</h4><ul>
+<li>Load &amp; Store<ul>
+<li>LDA, LDX 將一個記憶體的資料（必為1 word）載入A暫存器 or X暫存器</li>
+<li>STA, STX 將A暫存器 or X暫存器儲存至一個記憶體</li>
+<li>LDCH 載入1 byte的記憶體資料至A暫存器（<strong>剩餘位數補0</strong>）</li>
+<li>STCH 將A暫存器的值儲存至一個記憶體（1 bytey資料）</li>
+</ul>
+</li>
+<li>Integer Arithmetic Operations<ul>
+<li>ADD, SUB, MUL, DIV, etc.<ul>
+<li><strong>將A暫存器與某記憶體中的資料（必為1 word）運算，並儲存在A暫存器</strong></li>
+<li>e.g. ADD 0030 → A暫存器 = (A) + (0030)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Comparison<ul>
+<li>COMP 比較A暫存器內的值與一個記憶體位址中的資料，並<strong>設置一個CC再儲存至SW暫存器</strong></li>
+</ul>
+</li>
+<li>Coditional Jump Instruction<ul>
+<li>JLT, JEQ, JGT (&lt;, =, &gt;)</li>
+<li>根據SW暫存器的值，去決定是否跳到該記憶體位址，因此需與COMP指令搭配</li>
+<li>e.g. <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">COMP 0030   &#x2F;&#x2F; (A)與(0030)比較</span><br><span class="line">JLT 3120    &#x2F;&#x2F; 若(A)&lt;(0030)，則將PC暫存器的值設為3120</span><br></pre></td></tr></table></figure></li>
+</ul>
+</li>
+<li>Subroutine Jump Instructions<ul>
+<li>JSUB 跳到某副程式</li>
+<li>RSUB 無需放任何參數在後方，跳到L暫存器內的值</li>
+<li><strong>使用L暫存器來存取回傳的位址</strong></li>
+</ul>
+</li>
+<li>Input &amp; Output &amp; Test Device<ul>
+<li>輸入輸出<ul>
+<li>一次只處理1 byte，並且只存取A暫存器的最右邊8 bits</li>
+<li>每個裝置都有特定的記憶體位址，<strong>如果要從該裝置輸出or輸入，就是去該位址做存取</strong></li>
+<li>RD (Read Device), WD (Write Data)</li>
+<li>e.g. <a href="#Input-amp-Output">Input &amp; Output</a></li>
+</ul>
+</li>
+<li>TD (Test Device)</li>
+</ul>
+</li>
+<li>其他指令<ul>
+<li>搭配索引定指模式(Indexed-addressing mode)<ul>
+<li>如下方Code =&gt; <a href="#Looping-amp-Indexing">Looping and Indexing</a></li>
+</ul>
+</li>
+<li>TIX<ul>
+<li>(X) = (X) + 1</li>
+<li>加完後X暫存器會與後方參數比較，若相等就會設置CC給SW暫存器</li>
+<li>常用在迴圈處理，如下方Code()</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>沒有記憶體對記憶體的搬移指令</strong><ul>
+<li>不過可以經過Coding，如下方Code =&gt; <a href="#Load-amp-Store">Load &amp; Store</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="SIC-XE-Machine-Architecture"><a href="#SIC-XE-Machine-Architecture" class="headerlink" title="SIC/XE Machine Architecture"></a>SIC/XE Machine Architecture</h3><h4 id="Memory-1"><a href="#Memory-1" class="headerlink" title="Memory"></a>Memory</h4><ul>
+<li>Total memory is <strong>$2^{20}$ bytes (1MB)</strong></li>
+</ul>
+<h4 id="Registers-1"><a href="#Registers-1" class="headerlink" title="Registers"></a>Registers</h4><p>除了原本SIC有的暫存器外，還多了以下暫存器：</p>
+<table>
+<thead>
+<tr>
+<th align="center">Mnemonic</th>
+<th align="center">Number</th>
+<th align="left">Special use</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">B</td>
+<td align="center">3</td>
+<td align="left">基底(Base) 暫存器 <br>用在定址</td>
+</tr>
+<tr>
+<td align="center">S</td>
+<td align="center">4</td>
+<td align="left">一般工作(General working) 暫存器 <br>無特定用途</td>
+</tr>
+<tr>
+<td align="center">T</td>
+<td align="center">5</td>
+<td align="left">一般工作(General working) 暫存器 <br>無特定用途</td>
+</tr>
+<tr>
+<td align="center">F</td>
+<td align="center">6</td>
+<td align="left">浮點累加器(Floating-point accumulator)，有48 bits <br>用於浮點運算</td>
+</tr>
+</tbody></table>
+<p>p.s. 本課程不討論浮點數處理，因此該筆記不整理浮點數相關</p>
+<h4 id="Instruction-Formats-1"><a href="#Instruction-Formats-1" class="headerlink" title="Instruction Formats"></a>Instruction Formats</h4><p>基本上，沒有特定格式狀況下，都是Format 3<br><img src="/images/System-Software-Chapter1/XE_Instruction_Formats.png"></p>
+<h4 id="Addressing-Modes-1"><a href="#Addressing-Modes-1" class="headerlink" title="Addressing Modes"></a>Addressing Modes</h4><p>Instruction Format 3 &amp; Format 4中間那6 bits (n i x b p e)，分別代表一種定址模式，而<strong>b、p兩個位元會互斥（b=1則p=0，反之p=1則b=0）</strong></p>
+<ul>
+<li>Simple<ul>
+<li>SIC: n = i = 0，其實就是SIC的instruction format<ul>
+<li><strong>bpe會變成disp的一部分</strong>，TA = bpe + disp</li>
+</ul>
+</li>
+<li>XE: n = i = 1<ul>
+<li>Base relative 基底定址<ul>
+<li>相對於Base暫存器</li>
+<li><strong>n=1, i=1, b=1, p=0</strong></li>
+<li>TA = (B) + disp ($0 \leq disp \leq 4095$)</li>
+<li><img src="/images/System-Software-Chapter1/Base_relative_addressing_mode.png"></li>
+</ul>
+</li>
+<li>Program-counter relative PC相對定址<ul>
+<li>相對於PC暫存器</li>
+<li><strong>n=1, i=1, b=0, p=1</strong></li>
+<li>TA = (PC) + disp ($-2048 \leq disp \leq 2047$)</li>
+<li><img src="/images/System-Software-Chapter1/PC_relative_addressing_mode.png"></li>
+</ul>
+</li>
+<li>Direct 直接定址<ul>
+<li><strong>n=1, i=1, b=0, p=0</strong></li>
+<li>TA = disp ($0 \leq disp \leq 4095$)</li>
+<li><img src="/images/System-Software-Chapter1/Direct_addressing_mode.png"></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Immediate 立即定址<ul>
+<li>要運算的東西，直接放在disp</li>
+<li><strong>n=0, i=1, x=0</strong></li>
+<li>operand = disp</li>
+<li><img src="/images/System-Software-Chapter1/Immediate_addressing_mode.png"></li>
+</ul>
+</li>
+<li>Indirect 間接定址<ul>
+<li><strong>n=1, i=0, x=0</strong></li>
+<li>TA = (disp)</li>
+<li><img src="/images/System-Software-Chapter1/Indirect_addressing_mode.png"></li>
+</ul>
+</li>
+<li>Indexing 索引定址<ul>
+<li><strong>x=1</strong>，可搭配其他定址模式</li>
+<li>TA = (X) + Original TA</li>
+<li><img src="/images/System-Software-Chapter1/Indexing_addressing_mode.png"></li>
+</ul>
+</li>
+<li>Extended <ul>
+<li><font style="color:red">Format 4</font></li>
+<li><strong>e=1</strong></li>
+</ul>
+</li>
+</ul>
+<h5 id="Addressing-Mode-Example"><a href="#Addressing-Mode-Example" class="headerlink" title="Addressing Mode Example"></a>Addressing Mode Example</h5><p><img src="/images/System-Software-Chapter1/Addressing_Mode_Example.png"></p>
+<table>
+<thead>
+<tr>
+<th>Hex</th>
+<th>Opcode</th>
+<th>n</th>
+<th>i</th>
+<th>x</th>
+<th>b</th>
+<th>p</th>
+<th>e</th>
+<th>disp/address</th>
+<th>TA</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>032600</td>
+<td>000000</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0110 0000 0000</td>
+<td>3600</td>
+</tr>
+<tr>
+<td>03C300</td>
+<td>000000</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0011 0000 0000</td>
+<td>6390</td>
+</tr>
+<tr>
+<td>022030</td>
+<td>000000</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0000 0011 0000</td>
+<td>3030</td>
+</tr>
+<tr>
+<td>010030</td>
+<td>000000</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0000 0011 0000</td>
+<td>30</td>
+</tr>
+<tr>
+<td>003600</td>
+<td>000000</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0110 0000 0000</td>
+<td>3600</td>
+</tr>
+<tr>
+<td>0310C303</td>
+<td>000000</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0000 1100 0011 0000 0011</td>
+<td>C303</td>
+</tr>
+</tbody></table>
+<h4 id="Instruction-Set-1"><a href="#Instruction-Set-1" class="headerlink" title="Instruction Set"></a>Instruction Set</h4><ul>
+<li>load/store<ul>
+<li>LDB, STB, stc.</li>
+</ul>
+</li>
+<li>Register move (<font style="color:red">Format 2</font>)<ul>
+<li>RMO</li>
+</ul>
+</li>
+<li>Register-Register arithmetic (<font style="color:red">Format 2</font>)<ul>
+<li>ADDR, SUBR, MULR, DIVR</li>
+</ul>
+</li>
+</ul>
+<h4 id="Code-Example"><a href="#Code-Example" class="headerlink" title="Code Example"></a>Code Example</h4><h5 id="Load-amp-Store"><a href="#Load-amp-Store" class="headerlink" title="Load &amp; Store"></a>Load &amp; Store</h5><ul>
+<li>SIC<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">LDA   FIVE        &#x2F;&#x2F; 將FIVE載入至A暫存器</span><br><span class="line">STA   ALPHA       &#x2F;&#x2F; 將A暫存器的值存至ALPHA</span><br><span class="line">LDCH  CHARZ       &#x2F;&#x2F; 將CHARZ載入A暫存器，此時(A)&#x3D;0x000091</span><br><span class="line">STCH  C1          &#x2F;&#x2F; 將A暫存器的值存至C1</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">&#x2F;** 以下為「指示(Directive)」，詳細至Chapter 2了解 **&#x2F;</span><br><span class="line">ALPHA RESW 1      &#x2F;&#x2F; 宣告ALPHA，並保留1 word大小的空間</span><br><span class="line">FIVE  WORD 5      &#x2F;&#x2F; 宣告FIVE，並將常數5放入(1 word大小)</span><br><span class="line">CHARZ BYTE C&#39;Z&#39;   &#x2F;&#x2F; 宣告CHARZ，並放入「Z」的ASCII Code</span><br><span class="line">                  &#x2F;&#x2F; C&#39;&#39;代表放入ASCII Code</span><br><span class="line">C1    RESB 1      &#x2F;&#x2F; 宣告C1，並保留1 byte大小的空間</span><br></pre></td></tr></table></figure></li>
+<li>XE<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">LDA   #5          &#x2F;&#x2F; 「#」為立即值(使用Immediate Addressing Mode)</span><br><span class="line">STA   ALPHA</span><br><span class="line">LDA   #90         &#x2F;&#x2F; 使用立即定址將ASCII Code為90的字元存進A暫存器</span><br><span class="line">STCH  C1</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">ALPHA RESW  1</span><br><span class="line">C1    RESB  1</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h5 id="Arithmetic-Operation"><a href="#Arithmetic-Operation" class="headerlink" title="Arithmetic Operation"></a>Arithmetic Operation</h5><ul>
+<li>以下Code先假設ALPHA, BETA, GAMMA, DELTA, INCR已載入值</li>
+<li>SIC<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">LDA   ALPHA     &#x2F;&#x2F; 將ALPHA的值存入A暫存器</span><br><span class="line">ADD   INCR      &#x2F;&#x2F; A暫存器 +&#x3D; INCR</span><br><span class="line">SUB   ONE       &#x2F;&#x2F; A暫存器 -&#x3D; 1</span><br><span class="line">STA   BETA      &#x2F;&#x2F; 將A暫存器的值存入BETA</span><br><span class="line">LDA   GAMMA     &#x2F;&#x2F; 將GAMMA的值存入A暫存器</span><br><span class="line">ADD   INCR      &#x2F;&#x2F; A暫存器 +&#x3D; INCR</span><br><span class="line">SUB   ONE       &#x2F;&#x2F; A暫存器 -&#x3D; 1</span><br><span class="line">STA   DELTA     &#x2F;&#x2F; 將A暫存器的值存入DELTA</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">ONE     WORD 	1</span><br><span class="line">ALPHA   RESW	1</span><br><span class="line">BETA    RESW	1</span><br><span class="line">GAMMA   RESW 	1</span><br><span class="line">DELTA   RESW	1</span><br><span class="line">INCR    RESW 	1</span><br></pre></td></tr></table></figure></li>
+<li>XE<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">LDS   INCR      &#x2F;&#x2F; 將INCR的值存入S</span><br><span class="line">LDA   ALPHA     &#x2F;&#x2F; 將ALPHA的值存入A</span><br><span class="line">ADDR  S, A      &#x2F;&#x2F; S + A 後放回A</span><br><span class="line">SUB   #1        &#x2F;&#x2F; A暫存器 -&#x3D; 1</span><br><span class="line">STA   BETA      &#x2F;&#x2F; 將A暫存器的值存入BETA</span><br><span class="line">LDA   GAMMA     &#x2F;&#x2F; 將GAMMA的值存入A</span><br><span class="line">ADDR  S, A      &#x2F;&#x2F; S + A 後放回A</span><br><span class="line">SUB   #1        &#x2F;&#x2F; A暫存器 -&#x3D; 1</span><br><span class="line">STA   DELTA     &#x2F;&#x2F; 將A暫存器的值存入DELTA</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">ALPHA   RESW  1</span><br><span class="line">BETA    RESW  1</span><br><span class="line">GAMMA   RESW  1</span><br><span class="line">DELTA   RESW  1</span><br><span class="line">INCR    RESW  1</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h5 id="Looping-amp-Indexing"><a href="#Looping-amp-Indexing" class="headerlink" title="Looping &amp; Indexing"></a>Looping &amp; Indexing</h5><ul>
+<li>SIC<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">        LDX   ZERO      &#x2F;&#x2F; 初始化X暫存器為0</span><br><span class="line">MOVECH  LDCH  STR1, X   &#x2F;&#x2F; 從A暫存器讀取index為X的一個字元進去</span><br><span class="line">        STCH  STR2, X   &#x2F;&#x2F; 將A暫存器的值存入STR2的index X</span><br><span class="line">        TIX   ELEVEN    &#x2F;&#x2F; 先將X暫存器值+1後跟ELEVEN比對值放入CC（SW暫存器）</span><br><span class="line">        JLT   MOVECH    &#x2F;&#x2F; 如果CC是小於則跳回MOVECH</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">STR1    BYTE  C&#39;TEST STRING&#39;	&#x2F;&#x2F;將後面字串傳成ASCII Code並丟入STR1</span><br><span class="line">STR2    RESB  11</span><br><span class="line">ZERO    WORD  0</span><br><span class="line">ELEVEN  WORD  11</span><br></pre></td></tr></table></figure></li>
+<li>XE<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">        LDT   #11       &#x2F;&#x2F; 初始化T暫存器為11</span><br><span class="line">        LDX   #0        &#x2F;&#x2F; 初始化X暫存器為0</span><br><span class="line">MOVECH  LDCH  STR1,X    &#x2F;&#x2F; 從A暫存器讀取index為X的一個字元進去</span><br><span class="line">        STCH  STR2,X    &#x2F;&#x2F; 將A暫存器的值存入STR2的index X</span><br><span class="line">        TIXR  T         &#x2F;&#x2F; 先將X暫存器值+1後跟ELEVEN比對值放入CC（SW暫存器）</span><br><span class="line">        JLT   MOVECH    &#x2F;&#x2F; 如果CC是小於則跳回MOVECH</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">STR1  BYTE  C&#39;TEST STRING&#39;</span><br><span class="line">STR2  RESB  11</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h5 id="Input-amp-Output"><a href="#Input-amp-Output" class="headerlink" title="Input &amp; Output"></a>Input &amp; Output</h5><ul>
+<li>SIC<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">INLOOP  TD    INDEV   &#x2F;&#x2F; 測試輸入裝置</span><br><span class="line">        JEQ   INLOOP  &#x2F;&#x2F; 迴圈直到輸入裝置準備好</span><br><span class="line">        RD    INDEV   &#x2F;&#x2F; 讀一個字元進入A暫存器</span><br><span class="line">        STCH  DATA    &#x2F;&#x2F; 把A暫存器的字元存入DATA</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">OUTLP   TD    OUTDEV  &#x2F;&#x2F; 測試輸入裝置</span><br><span class="line">        JEQ   OUTLP   &#x2F;&#x2F; 迴圈直到輸入裝置準備好</span><br><span class="line">        LDCH  DATA    &#x2F;&#x2F; 從DATA位址讀一個字元進A暫存器</span><br><span class="line">        WD    OUTDEV  &#x2F;&#x2F; 將字元輸出</span><br><span class="line">  .</span><br><span class="line">  .</span><br><span class="line">INDEV   BYTE  X&#39;F1&#39;   &#x2F;&#x2F; 輸入裝置代號F1</span><br><span class="line">OUTDEV  BYTE  X&#39;05&#39;   &#x2F;&#x2F; 輸出裝置代號05</span><br><span class="line">                      &#x2F;&#x2F; 由X&#39;&#39;可知為16進制</span><br><span class="line">DATA    RESB  1</span><br></pre></td></tr></table></figure></li>
+</ul>
+]]></content>
+      <categories>
+        <category>System Software</category>
+      </categories>
+      <tags>
+        <tag>System Software</tag>
+        <tag>SIC/XE</tag>
+        <tag>系統程式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【System Software】 Chapter 2 - Assembler</title>
+    <url>/2021/04/22/System-Software-Chapter2/</url>
+    <content><![CDATA[<h3 id="Role-of-Assembler"><a href="#Role-of-Assembler" class="headerlink" title="Role of Assembler"></a>Role of Assembler</h3><p><img src="/images/System-Software-Chapter2/assembler.png"></p>
+<span id="more"></span>
+
+<h4 id="Basic-SIC-assembler-directive"><a href="#Basic-SIC-assembler-directive" class="headerlink" title="Basic SIC assembler directive"></a>Basic SIC assembler directive</h4><p>指示(directive)與指令(instruction)不同的是，<strong>「指令」為讓CPU可以實際執行的命令（e.g. LDA, ADD…）；而「指示」並非真正的指令，主要是為了告訴Assembler要做什麼事（e.g. 保留空間、程式開始與結束…）</strong></p>
+<ul>
+<li>START, END 程式開始與結束<ul>
+<li>e.g. START 1000 =&gt; 代表此程式從記憶體位址0x1000開始（如下圖）</li>
+</ul>
+</li>
+<li>WORD 宣告一個Word的標籤做為常數使用</li>
+<li>BYTE 宣告數個Byte的標籤做為常數使用</li>
+<li>RESW 保留一個Word的空間當作變數使用</li>
+<li>RESB 保留數個Byte的空間當作變數使用</li>
+</ul>
+<h4 id="SIC-Code-Example-含Object-Code"><a href="#SIC-Code-Example-含Object-Code" class="headerlink" title="SIC Code Example (含Object Code)"></a>SIC Code Example (含Object Code)</h4><p><img src="/images/System-Software-Chapter2/SIC_Example.png"></p>
+<h4 id="Fundamental-functions-of-assembler"><a href="#Fundamental-functions-of-assembler" class="headerlink" title="Fundamental functions of assembler"></a>Fundamental functions of assembler</h4><ol>
+<li>將 助憶碼(mnemonic operation codes) 轉換成機器碼 <ul>
+<li>e.g. LDA =&gt; 0x00</li>
+</ul>
+</li>
+<li>將 符號運算元(symbolic operands) 轉換為對應的記憶體位址 <ul>
+<li>e.g. RDREC =&gt; 0x2039</li>
+</ul>
+</li>
+<li>依照指令格式建立指令</li>
+<li>將常數資料轉換成機器內部的表示方式<ul>
+<li>e.g. <code>EOF BYTE C&#39;EOF&#39;</code> =&gt; 454F46</li>
+</ul>
+</li>
+<li>產生目的碼程式 (Object program) 和組譯列表</li>
+</ol>
+<h4 id="obj檔內容"><a href="#obj檔內容" class="headerlink" title="obj檔內容"></a>obj檔內容</h4><p>下圖為上面範例放入obj檔的樣子<br><img src="/images/System-Software-Chapter2/SIC_Example_OBJ.png"><br>其中：</p>
+<ul>
+<li>record (每行首個字元)<ul>
+<li>H (Header)：Obj檔第一行<ul>
+<li>該行第2~7個字元：程式名稱</li>
+<li>該行第8~13個字元：程式起始位址（以16進制表示）</li>
+<li>該行第14~19個字元：程式總共使用的記憶體長度（以16進制表示）<ul>
+<li>以上圖為例的話，2079-1000+1=107A</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>T (Text)：指令碼<ul>
+<li>該行第2~7個字元：該行的起始位址（以16進制表示）</li>
+<li>該行第8~9個字元：該行長度（以16進制表示）</li>
+<li>該行10~69個字元：Object Code，以16進制表示</li>
+<li>OBJ檔中，Object Code每Byte為2字元，因此<strong>每行最多只能放30 Bytes</strong><ul>
+<li>(69-10+1)/2 = 30</li>
+<li>指令普遍為格式3，指令碼為6個字元，則<u>普遍情況下，該行最多只能存放(69-10+1)/6=10個指令</u></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>E (End)：Obj檔最後一行<ul>
+<li>該行第2~7個字元：程式中第一個可執行指令的位址</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="Address-Translation-Problem"><a href="#Address-Translation-Problem" class="headerlink" title="Address Translation Problem"></a>Address Translation Problem</h4><h5 id="Forward-reference-前向參考問題"><a href="#Forward-reference-前向參考問題" class="headerlink" title="Forward reference (前向參考問題)"></a>Forward reference (前向參考問題)</h5><ul>
+<li>參考的標籤位於該行後方（尚未定義）</li>
+</ul>
+<h5 id="Solution-Two-passes-assembler"><a href="#Solution-Two-passes-assembler" class="headerlink" title="Solution : Two passes assembler"></a>Solution : Two passes assembler</h5><ul>
+<li>Pass 1<ul>
+<li>分配記憶體位址給程式中每一行指令</li>
+<li>判斷指令長度(透過OPTAB)</li>
+<li>計算LOCCTR</li>
+<li><strong>儲存所有標籤(Labels)的位址到SYMTAB</strong></li>
+<li>對一些指示要進行處理</li>
+</ul>
+</li>
+<li>Pass 2<ul>
+<li>透過SYMTAB，帶入Pass 1沒有處理的symbol</li>
+<li>透過OPTABLE產生機器碼</li>
+<li>藉由BYTE, WORD定義，生成常數標籤的數值</li>
+<li>寫入obj檔和組譯列表</li>
+</ul>
+</li>
+</ul>
+<h6 id="細節"><a href="#細節" class="headerlink" title="細節"></a>細節</h6><p><img src="/images/System-Software-Chapter2/two-pass.png"></p>
+<ul>
+<li>運算碼表 (Operation Code Table, OPTAB)<ul>
+<li><strong>儲存助憶指令與機器碼之關連</strong></li>
+<li>使用Hash Table，使用助憶碼作為key</li>
+<li>Pass 1時用來檢驗運算碼及計算指令長度</li>
+<li>Pass 2時用來轉換運算碼至機器碼</li>
+<li>Static結構</li>
+</ul>
+</li>
+<li>符號表 (Symbol Table, SYMTAB)<ul>
+<li><strong>儲存Labels與其對應記憶體位址</strong></li>
+<li>包含Labels名稱、位址、長度、型態和error flags</li>
+<li>使用Hash Table加速</li>
+<li>Dynamic結構</li>
+</ul>
+</li>
+<li>程式計數器 (Location Counter, LOCCTR)<ul>
+<li>初始值為START指派的值</li>
+<li>記錄下一個指令的位址</li>
+</ul>
+</li>
+<li>Intermediate file<ul>
+<li>由pass1寫入並當pass2的input</li>
+<li>包含：<ul>
+<li>在Pass 1所得到的記憶體位址</li>
+<li>錯誤指示（避免Pass 1發現錯，卻還進入Pass 2）</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="一些SIC-XE指令符號代表的定址模式"><a href="#一些SIC-XE指令符號代表的定址模式" class="headerlink" title="一些SIC/XE指令符號代表的定址模式"></a>一些SIC/XE指令符號代表的定址模式</h4><ul>
+<li>+: Extended Addressing Mode<ul>
+<li>e.g. <code>+JSUB</code></li>
+</ul>
+</li>
+<li>#: Immediate Addressing Mode<ul>
+<li>e.g. <code>LDA #3</code></li>
+</ul>
+</li>
+<li>@: Indirect Addressing Mode<ul>
+<li>e.g. <code>J @RETADR</code></li>
+</ul>
+</li>
+<li>,X: Indexing Addressing Mode<ul>
+<li>e.g. <code>LDA ARRAY, X</code></li>
+</ul>
+</li>
+<li>如沒以上符號<ul>
+<li><strong>原則上，先嘗試使用PC相對定址</strong></li>
+<li>若超出範圍則試著使用Base定址</li>
+<li>若兩者都不適用則會有錯誤訊息</li>
+</ul>
+</li>
+</ul>
+<h4 id="Program-Relocation"><a href="#Program-Relocation" class="headerlink" title="Program Relocation"></a>Program Relocation</h4><ul>
+<li>SIC需要一個absolute loader (絕對載入器)<ul>
+<li>程式必須被載入到指定的起始位址</li>
+<li>如果被載入到與指定的不同，則指令的位址需要更改</li>
+</ul>
+</li>
+<li>Assembler無法自己改變記憶體位址<ul>
+<li>但是可以告訴loader記憶體位址需要被修正</li>
+</ul>
+</li>
+<li>XE指令<strong>只有Extended定址會受影響</strong><ul>
+<li>因為其他定址模式都是相對的</li>
+</ul>
+</li>
+<li>OBJ檔中的修正方式：<ul>
+<li>使用record<ul>
+<li>M (Modification)：修正會放在E record前<ul>
+<li><strong>該行第2~7個字元：相對程式起始位址幾個Byte</strong>（以16進制表示）</li>
+<li>該行第8~9個字元：修正長度（以16進制表示）</li>
+</ul>
+</li>
+<li>e.g. 有一XE的obj檔如下<br><img src="/images/System-Software-Chapter2/XE_Example_OBJ.png"><ul>
+<li>標示如上圖所示，每兩個16進制字元為1 Byte<ul>
+<li>因此藍標，M 000007 05，則是去Relocation相對程式起始位址第7個Byte，並修正5個Bytes，其他以此類推</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>因OS記憶體配置較彈性，因此程式每次執行可能會被放在不同的起始位址<br><img src="/images/System-Software-Chapter2/relocation.png"></li>
+</ul>
+<h3 id="Sysmbol-Defining-Statements"><a href="#Sysmbol-Defining-Statements" class="headerlink" title="Sysmbol-Defining Statements"></a>Sysmbol-Defining Statements</h3><h4 id="Literals"><a href="#Literals" class="headerlink" title="Literals"></a>Literals</h4>]]></content>
+      <categories>
+        <category>System Software</category>
+      </categories>
+      <tags>
+        <tag>System Software</tag>
+        <tag>SIC/XE</tag>
+        <tag>系統程式</tag>
       </tags>
   </entry>
 </search>
