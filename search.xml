@@ -926,7 +926,7 @@
 <li>TIX<ul>
 <li>(X) = (X) + 1</li>
 <li>加完後X暫存器會與後方參數比較，若相等就會設置CC給SW暫存器</li>
-<li>常用在迴圈處理，如下方Code()</li>
+<li>常用在迴圈處理，如下方Code =&gt; <a href="#Looping-amp-Indexing">Looping and Indexing</a></li>
 </ul>
 </li>
 </ul>
