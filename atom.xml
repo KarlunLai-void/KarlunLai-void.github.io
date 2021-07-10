@@ -6,7 +6,7 @@
   <link href="https://karlunlai-void.github.io/atom.xml" rel="self"/>
   
   <link href="https://karlunlai-void.github.io/"/>
-  <updated>2021-04-22T01:03:04.414Z</updated>
+  <updated>2021-07-10T16:02:09.692Z</updated>
   <id>https://karlunlai-void.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【TGDF2021】遊戲程式優化技巧：平行化與時間切割（Unity）</title>
+    <link href="https://karlunlai-void.github.io/2021/07/10/TGDF2021_GameProgramming-parallelization-and-time-slicing/"/>
+    <id>https://karlunlai-void.github.io/2021/07/10/TGDF2021_GameProgramming-parallelization-and-time-slicing/</id>
+    <published>2021-07-10T01:04:45.000Z</published>
+    <updated>2021-07-10T16:02:09.692Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;講者：周明倫&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="TGDF2021_台北遊戲開發者論壇" scheme="https://karlunlai-void.github.io/categories/TGDF2021-%E5%8F%B0%E5%8C%97%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E8%80%85%E8%AB%96%E5%A3%87/"/>
+    
+    
+    <category term="TGDF台北遊戲開發者論壇" scheme="https://karlunlai-void.github.io/tags/TGDF%E5%8F%B0%E5%8C%97%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E8%80%85%E8%AB%96%E5%A3%87/"/>
+    
+    <category term="TGDF2021" scheme="https://karlunlai-void.github.io/tags/TGDF2021/"/>
+    
+    <category term="遊戲程式" scheme="https://karlunlai-void.github.io/tags/%E9%81%8A%E6%88%B2%E7%A8%8B%E5%BC%8F/"/>
+    
+    <category term="Unity" scheme="https://karlunlai-void.github.io/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【System Software】 Chapter 2 - Assembler</title>
     <link href="https://karlunlai-void.github.io/2021/04/22/System-Software-Chapter2/"/>
     <id>https://karlunlai-void.github.io/2021/04/22/System-Software-Chapter2/</id>
     <published>2021-04-21T22:21:14.000Z</published>
-    <updated>2021-04-22T01:03:04.414Z</updated>
+    <updated>2021-05-26T17:51:02.000Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;Role-of-Assembler&quot;&gt;&lt;a href=&quot;#Role-of-Assembler&quot; class=&quot;headerlink&quot; title=&quot;Role of Assembler&quot;&gt;&lt;/a&gt;Role of Assembler&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/images/System-Software-Chapter2/assembler.png&quot;&gt;&lt;/p&gt;</summary>
@@ -98,7 +123,7 @@
     <link href="https://karlunlai-void.github.io/2021/01/29/APGS2021_The-power-of-kyaaa-in-game-production/"/>
     <id>https://karlunlai-void.github.io/2021/01/29/APGS2021_The-power-of-kyaaa-in-game-production/</id>
     <published>2021-01-29T12:34:00.000Z</published>
-    <updated>2021-04-21T16:08:03.177Z</updated>
+    <updated>2021-07-10T12:45:36.540Z</updated>
     
     
     <summary type="html">&lt;p&gt;講者：Shawn Toh／BATTLEBREW PRODUCTIONS&lt;/p&gt;</summary>
@@ -119,7 +144,7 @@
     <link href="https://karlunlai-void.github.io/2021/01/29/APGS2021_Composing-music-for-a-VR-historical-game/"/>
     <id>https://karlunlai-void.github.io/2021/01/29/APGS2021_Composing-music-for-a-VR-historical-game/</id>
     <published>2021-01-29T12:29:00.000Z</published>
-    <updated>2021-04-21T16:06:12.700Z</updated>
+    <updated>2021-07-10T12:52:24.859Z</updated>
     
     
     <summary type="html">&lt;p&gt;講者：Aurelie Moiroud&lt;/p&gt;
@@ -136,8 +161,6 @@
     
     <category term="音樂音效" scheme="https://karlunlai-void.github.io/tags/%E9%9F%B3%E6%A8%82%E9%9F%B3%E6%95%88/"/>
     
-    <category term="歷史遊戲開發經驗" scheme="https://karlunlai-void.github.io/tags/%E6%AD%B7%E5%8F%B2%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E7%B6%93%E9%A9%97/"/>
-    
   </entry>
   
   <entry>
@@ -145,7 +168,7 @@
     <link href="https://karlunlai-void.github.io/2021/01/28/APGS2021_Using-third-party-tools-to-lower-indie-development-costs/"/>
     <id>https://karlunlai-void.github.io/2021/01/28/APGS2021_Using-third-party-tools-to-lower-indie-development-costs/</id>
     <published>2021-01-28T11:25:00.000Z</published>
-    <updated>2021-04-21T16:08:12.238Z</updated>
+    <updated>2021-07-10T12:46:24.252Z</updated>
     
     
     <summary type="html">&lt;p&gt;講者：Nontawat Thanakiatkrai&lt;/p&gt;</summary>
@@ -168,7 +191,7 @@
     <link href="https://karlunlai-void.github.io/2020/07/12/TGDF2020_hypnotize-you-without-a-trace/"/>
     <id>https://karlunlai-void.github.io/2020/07/12/TGDF2020_hypnotize-you-without-a-trace/</id>
     <published>2020-07-12T09:01:00.000Z</published>
-    <updated>2021-04-21T16:07:47.795Z</updated>
+    <updated>2021-07-10T12:44:58.039Z</updated>
     
     
     <summary type="html">&lt;p&gt;講者: 林昱廷&lt;br&gt;※ 此篇有大部分會從音樂人角度出發&lt;/p&gt;</summary>
@@ -191,7 +214,7 @@
     <link href="https://karlunlai-void.github.io/2020/07/12/TGDF2020_Can-I-also-become-the-streamer/"/>
     <id>https://karlunlai-void.github.io/2020/07/12/TGDF2020_Can-I-also-become-the-streamer/</id>
     <published>2020-07-12T04:56:00.000Z</published>
-    <updated>2021-04-21T16:07:39.996Z</updated>
+    <updated>2021-07-10T12:44:44.024Z</updated>
     
     
     <summary type="html">&lt;p&gt;講者: 汪光磊（6tan）&lt;/p&gt;</summary>
@@ -216,11 +239,10 @@
     <link href="https://karlunlai-void.github.io/2020/07/12/TGDF2020_RESIDENT-EVIL-RESISTANCE-development-experience-share/"/>
     <id>https://karlunlai-void.github.io/2020/07/12/TGDF2020_RESIDENT-EVIL-RESISTANCE-development-experience-share/</id>
     <published>2020-07-12T01:28:00.000Z</published>
-    <updated>2021-04-21T16:07:57.491Z</updated>
+    <updated>2021-07-10T12:52:15.142Z</updated>
     
     
-    <summary type="html">&lt;p&gt;講者: 李健源, AL Yang&lt;/p&gt;
-&lt;p&gt;合作模式&lt;br&gt;CAPCOM：發行商&lt;br&gt;泥巴娛樂：開發商&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;講者: 李健源, AL Yang&lt;/p&gt;</summary>
     
     
     
@@ -235,8 +257,6 @@
     
     <category term="遊戲設計" scheme="https://karlunlai-void.github.io/tags/%E9%81%8A%E6%88%B2%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="遊戲開發經驗分享" scheme="https://karlunlai-void.github.io/tags/%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB/"/>
-    
   </entry>
   
   <entry>
@@ -244,7 +264,7 @@
     <link href="https://karlunlai-void.github.io/2020/07/11/TGDF2020_subscription-share/"/>
     <id>https://karlunlai-void.github.io/2020/07/11/TGDF2020_subscription-share/</id>
     <published>2020-07-11T09:02:00.000Z</published>
-    <updated>2021-04-21T16:07:09.902Z</updated>
+    <updated>2021-07-10T12:44:16.625Z</updated>
     
     
     <summary type="html">&lt;p&gt;講者: Kuro&lt;br&gt;P.S. 講者是18+國產遊戲《獸人按摩店》開發者&lt;/p&gt;</summary>
@@ -269,7 +289,7 @@
     <link href="https://karlunlai-void.github.io/2020/07/11/TGDF2020_subscription-and-independent-fund-raising/"/>
     <id>https://karlunlai-void.github.io/2020/07/11/TGDF2020_subscription-and-independent-fund-raising/</id>
     <published>2020-07-11T08:06:00.000Z</published>
-    <updated>2021-04-21T16:07:00.529Z</updated>
+    <updated>2021-07-10T12:44:01.063Z</updated>
     
     
     <summary type="html">&lt;p&gt;講者: 鄭祤呈&lt;/p&gt;</summary>
@@ -292,7 +312,7 @@
     <link href="https://karlunlai-void.github.io/2020/07/11/TGDF2020_from-negative-to-zero/"/>
     <id>https://karlunlai-void.github.io/2020/07/11/TGDF2020_from-negative-to-zero/</id>
     <published>2020-07-11T07:34:00.000Z</published>
-    <updated>2021-04-21T16:06:43.931Z</updated>
+    <updated>2021-07-10T12:52:00.800Z</updated>
     
     
     <summary type="html">&lt;p&gt;講者: 周子修&lt;/p&gt;</summary>
@@ -308,8 +328,6 @@
     
     <category term="製程與管理" scheme="https://karlunlai-void.github.io/tags/%E8%A3%BD%E7%A8%8B%E8%88%87%E7%AE%A1%E7%90%86/"/>
     
-    <category term="失敗經驗分享" scheme="https://karlunlai-void.github.io/tags/%E5%A4%B1%E6%95%97%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB/"/>
-    
   </entry>
   
   <entry>
@@ -317,7 +335,7 @@
     <link href="https://karlunlai-void.github.io/2020/07/11/TGDF2020_SubstancePBR/"/>
     <id>https://karlunlai-void.github.io/2020/07/11/TGDF2020_SubstancePBR/</id>
     <published>2020-07-11T04:59:00.000Z</published>
-    <updated>2021-04-21T16:07:16.241Z</updated>
+    <updated>2021-07-10T12:44:30.945Z</updated>
     
     
     <summary type="html">&lt;p&gt;講者: 嚴美子&lt;/p&gt;
@@ -347,7 +365,7 @@
     <link href="https://karlunlai-void.github.io/2020/07/11/TGDF2020_How-to-use-friendly-and-efficiently-Q-A-to-reduce-development-costs/"/>
     <id>https://karlunlai-void.github.io/2020/07/11/TGDF2020_How-to-use-friendly-and-efficiently-Q-A-to-reduce-development-costs/</id>
     <published>2020-07-11T03:31:00.000Z</published>
-    <updated>2021-04-21T16:06:55.118Z</updated>
+    <updated>2021-07-10T12:43:41.754Z</updated>
     
     
     <summary type="html">&lt;p&gt;講者: 沈建佑&lt;/p&gt;</summary>
@@ -372,7 +390,7 @@
     <link href="https://karlunlai-void.github.io/2020/07/11/TGDF2020_Did-I-make-a-mistake-when-I-entered-game-industry-internship-in-the-humanities-department/"/>
     <id>https://karlunlai-void.github.io/2020/07/11/TGDF2020_Did-I-make-a-mistake-when-I-entered-game-industry-internship-in-the-humanities-department/</id>
     <published>2020-07-11T01:55:00.000Z</published>
-    <updated>2021-04-21T16:06:27.420Z</updated>
+    <updated>2021-07-10T12:41:49.453Z</updated>
     
     
     <summary type="html">&lt;p&gt;講者： 許禎&lt;/p&gt;</summary>

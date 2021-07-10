@@ -33,10 +33,10 @@
 <meta property="og:image" content="https://karlunlai-void.github.io/images/System-Software-Chapter2/SIC_Example.png">
 <meta property="og:image" content="https://karlunlai-void.github.io/images/System-Software-Chapter2/SIC_Example_OBJ.png">
 <meta property="og:image" content="https://karlunlai-void.github.io/images/System-Software-Chapter2/two-pass.png">
-<meta property="og:image" content="https://karlunlai-void.github.io/images/System-Software-Chapter2/XE_Example_OBJ.png">
 <meta property="og:image" content="https://karlunlai-void.github.io/images/System-Software-Chapter2/relocation.png">
+<meta property="og:image" content="https://karlunlai-void.github.io/images/System-Software-Chapter2/XE_Example_OBJ.png">
 <meta property="article:published_time" content="2021-04-21T22:21:14.000Z">
-<meta property="article:modified_time" content="2021-04-22T01:03:04.414Z">
+<meta property="article:modified_time" content="2021-05-26T17:51:02.000Z">
 <meta property="article:author" content="Karlun Lai">
 <meta property="article:tag" content="System Software">
 <meta property="article:tag" content="SIC&#x2F;XE">
@@ -234,10 +234,16 @@
                 <i class="far fa-calendar"></i>
               </span>
               <span class="post-meta-item-text">發表於</span>
-              
 
-              <time title="創建時間：2021-04-22 06:21:14 / 修改時間：09:03:04" itemprop="dateCreated datePublished" datetime="2021-04-22T06:21:14+08:00">2021-04-22</time>
+              <time title="創建時間：2021-04-22 06:21:14" itemprop="dateCreated datePublished" datetime="2021-04-22T06:21:14+08:00">2021-04-22</time>
             </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新於</span>
+                <time title="修改時間：2021-05-27 01:51:02" itemprop="dateModified" datetime="2021-05-27T01:51:02+08:00">2021-05-27</time>
+              </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
                 <i class="far fa-folder"></i>
@@ -268,10 +274,11 @@
 <li>e.g. START 1000 =&gt; 代表此程式從記憶體位址0x1000開始（如下圖）</li>
 </ul>
 </li>
-<li>WORD 宣告一個Word的標籤做為常數使用</li>
-<li>BYTE 宣告數個Byte的標籤做為常數使用</li>
-<li>RESW 保留一個Word的空間當作變數使用</li>
-<li>RESB 保留數個Byte的空間當作變數使用</li>
+<li>WORD 宣告一個Word的標籤做為<strong>常數</strong>使用</li>
+<li>BYTE 宣告數個Byte的標籤做為<strong>常數</strong>使用</li>
+<li>RESW 保留一個Word的空間當作<strong>變數</strong>使用</li>
+<li>RESB 保留數個Byte的空間當作<strong>變數</strong>使用</li>
+<li>p.s. 常數：不可修改；變數：可修改（後來再賦予值）</li>
 </ul>
 <h4 id="SIC-Code-Example-含Object-Code"><a href="#SIC-Code-Example-含Object-Code" class="headerlink" title="SIC Code Example (含Object Code)"></a>SIC Code Example (含Object Code)</h4><p><img src="/images/System-Software-Chapter2/SIC_Example.png"></p>
 <h4 id="Fundamental-functions-of-assembler"><a href="#Fundamental-functions-of-assembler" class="headerlink" title="Fundamental functions of assembler"></a>Fundamental functions of assembler</h4><ol>
@@ -290,21 +297,21 @@
 </li>
 <li>產生目的碼程式 (Object program) 和組譯列表</li>
 </ol>
-<h4 id="obj檔內容"><a href="#obj檔內容" class="headerlink" title="obj檔內容"></a>obj檔內容</h4><p>下圖為上面範例放入obj檔的樣子<br><img src="/images/System-Software-Chapter2/SIC_Example_OBJ.png"><br>其中：</p>
+<h4 id="obj檔內容（皆以16進制表示）"><a href="#obj檔內容（皆以16進制表示）" class="headerlink" title="obj檔內容（皆以16進制表示）"></a>obj檔內容（皆以16進制表示）</h4><p>下圖為上面範例放入obj檔的樣子<br><img src="/images/System-Software-Chapter2/SIC_Example_OBJ.png"><br>其中：</p>
 <ul>
 <li>record (每行首個字元)<ul>
 <li>H (Header)：Obj檔第一行<ul>
 <li>該行第2~7個字元：程式名稱</li>
-<li>該行第8~13個字元：程式起始位址（以16進制表示）</li>
-<li>該行第14~19個字元：程式總共使用的記憶體長度（以16進制表示）<ul>
+<li>該行第8~13個字元：程式起始位址</li>
+<li>該行第14~19個字元：程式總共使用的記憶體長度<ul>
 <li>以上圖為例的話，2079-1000+1=107A</li>
 </ul>
 </li>
 </ul>
 </li>
 <li>T (Text)：指令碼<ul>
-<li>該行第2~7個字元：該行的起始位址（以16進制表示）</li>
-<li>該行第8~9個字元：該行長度（以16進制表示）</li>
+<li>該行第2~7個字元：該行的起始位址</li>
+<li>該行第8~9個字元：該行長度</li>
 <li>該行10~69個字元：Object Code，以16進制表示</li>
 <li>OBJ檔中，Object Code每Byte為2字元，因此<strong>每行最多只能放30 Bytes</strong><ul>
 <li>(69-10+1)/2 = 30</li>
@@ -321,6 +328,7 @@
 </li>
 </ul>
 <h4 id="Address-Translation-Problem"><a href="#Address-Translation-Problem" class="headerlink" title="Address Translation Problem"></a>Address Translation Problem</h4><h5 id="Forward-reference-前向參考問題"><a href="#Forward-reference-前向參考問題" class="headerlink" title="Forward reference (前向參考問題)"></a>Forward reference (前向參考問題)</h5><ul>
+<li>組譯時會遇到的問題</li>
 <li>參考的標籤位於該行後方（尚未定義）</li>
 </ul>
 <h5 id="Solution-Two-passes-assembler"><a href="#Solution-Two-passes-assembler" class="headerlink" title="Solution : Two passes assembler"></a>Solution : Two passes assembler</h5><ul>
@@ -373,6 +381,7 @@
 </li>
 </ul>
 <h4 id="一些SIC-XE指令符號代表的定址模式"><a href="#一些SIC-XE指令符號代表的定址模式" class="headerlink" title="一些SIC/XE指令符號代表的定址模式"></a>一些SIC/XE指令符號代表的定址模式</h4><ul>
+<li>定址模式請參考<a href="https://karlunlai-void.github.io/2021/04/22/System-Software-Chapter1/#Addressing-Modes-1">這裡</a></li>
 <li>+: Extended Addressing Mode<ul>
 <li>e.g. <code>+JSUB</code></li>
 </ul>
@@ -390,36 +399,61 @@
 </ul>
 </li>
 <li>如沒以上符號<ul>
-<li><strong>原則上，先嘗試使用PC相對定址</strong></li>
+<li><strong>原則上，組譯時先嘗試使用PC相對定址</strong></li>
 <li>若超出範圍則試著使用Base定址</li>
 <li>若兩者都不適用則會有錯誤訊息</li>
 </ul>
 </li>
 </ul>
-<h4 id="Program-Relocation"><a href="#Program-Relocation" class="headerlink" title="Program Relocation"></a>Program Relocation</h4><ul>
-<li>SIC需要一個absolute loader (絕對載入器)<ul>
+<h4 id="Program-Relocation-程式重新定址問題"><a href="#Program-Relocation-程式重新定址問題" class="headerlink" title="Program Relocation (程式重新定址問題)"></a>Program Relocation (程式重新定址問題)</h4><ul>
+<li>SIC有一個absolute loader (絕對載入器)<ul>
 <li>程式必須被載入到指定的起始位址</li>
-<li>如果被載入到與指定的不同，則指令的位址需要更改</li>
+<li><strong>如果被載入到與指定的不同，則指令的位址需要更改</strong></li>
 </ul>
 </li>
+<li>因OS記憶體配置較彈性，因此程式每次執行可能會被放在不同的起始位址<br><img src="/images/System-Software-Chapter2/relocation.png"></li>
+</ul>
+<h5 id="Relocatable-program"><a href="#Relocatable-program" class="headerlink" title="Relocatable program"></a>Relocatable program</h5><ul>
 <li>Assembler無法自己改變記憶體位址<ul>
-<li>但是可以告訴loader記憶體位址需要被修正</li>
+<li>但可透過OBJ檔告訴loader記憶體位址需要被修正。</li>
 </ul>
 </li>
-<li>XE指令<strong>只有Extended定址會受影響</strong><ul>
-<li>因為其他定址模式都是相對的</li>
+<li>會受影響的指令碼（需被Relocate的指令）<ul>
+<li>SIC版本<ul>
+<li><strong>常數資料的指令碼絕對不會影響</strong><ul>
+<li>e.g. <code>EOF BYTE C&#39;EOF&#39;</code> =&gt; 454F46</li>
+</ul>
+</li>
+<li>大多指令都是直接定址，因此幾乎都會影響</li>
+<li>所以暫時逃避不談xD</li>
+</ul>
+</li>
+<li>SIC/XE版本<ul>
+<li><strong>只有Extended定址會受影響</strong>，因為其他定址模式都是相對的</li>
+</ul>
+</li>
+<li>簡單來說，<strong>相對定址和常數資料的指令碼不受影響</strong></li>
 </ul>
 </li>
 <li>OBJ檔中的修正方式：<ul>
 <li>使用record<ul>
 <li>M (Modification)：修正會放在E record前<ul>
-<li><strong>該行第2~7個字元：相對程式起始位址幾個Byte</strong>（以16進制表示）</li>
-<li>該行第8~9個字元：修正長度（以16進制表示）</li>
+<li><strong>該行第2~7個字元：需修改的位址欄位與程式起始位址的距離</strong></li>
+<li>該行第8~9個字元：修正長度（以Nibble為單位，1 Nibble = 0.5 Byte）</li>
 </ul>
 </li>
 <li>e.g. 有一XE的obj檔如下<br><img src="/images/System-Software-Chapter2/XE_Example_OBJ.png"><ul>
 <li>標示如上圖所示，每兩個16進制字元為1 Byte<ul>
-<li>因此藍標，M 000007 05，則是去Relocation相對程式起始位址第7個Byte，並修正5個Bytes，其他以此類推</li>
+<li>因此藍標，M 000007 05<ul>
+<li>去Relocation相對程式起始位址第7個Byte</li>
+<li>並修正5個Nibbles（2.5個Bytes）</li>
+<li>第7個Byte是10，那為何是從0開始取5 Nibbles，而不是從1開始取？<ul>
+<li>原因：<strong>因為存放在記憶體的方式是littleEndian</strong>，所以1個Nibble是從第7個Byte的後面開始算</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>其他以此類推</li>
 </ul>
 </li>
 </ul>
@@ -428,7 +462,6 @@
 </li>
 </ul>
 </li>
-<li>因OS記憶體配置較彈性，因此程式每次執行可能會被放在不同的起始位址<br><img src="/images/System-Software-Chapter2/relocation.png"></li>
 </ul>
 <h3 id="Sysmbol-Defining-Statements"><a href="#Sysmbol-Defining-Statements" class="headerlink" title="Sysmbol-Defining Statements"></a>Sysmbol-Defining Statements</h3><h4 id="Literals"><a href="#Literals" class="headerlink" title="Literals"></a>Literals</h4>
     </div>
@@ -453,7 +486,10 @@
     <a href="/2021/04/22/System-Software-Chapter1/" rel="prev" title="【System Software】 Chapter 1 - Background">
       <i class="fa fa-chevron-left"></i> 【System Software】 Chapter 1 - Background
     </a></div>
-      <div class="post-nav-item"></div>
+      <div class="post-nav-item">
+    <a href="/2021/07/10/TGDF2021_GameProgramming-parallelization-and-time-slicing/" rel="next" title="【TGDF2021】遊戲程式優化技巧：平行化與時間切割（Unity）">
+      【TGDF2021】遊戲程式優化技巧：平行化與時間切割（Unity） <i class="fa fa-chevron-right"></i>
+    </a></div>
     </div>
       </footer>
     
@@ -513,7 +549,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#Role-of-Assembler"><span class="nav-number">1.</span> <span class="nav-text">Role of Assembler</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#Basic-SIC-assembler-directive"><span class="nav-number">1.1.</span> <span class="nav-text">Basic SIC assembler directive</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#SIC-Code-Example-%E5%90%ABObject-Code"><span class="nav-number">1.2.</span> <span class="nav-text">SIC Code Example (含Object Code)</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Fundamental-functions-of-assembler"><span class="nav-number">1.3.</span> <span class="nav-text">Fundamental functions of assembler</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#obj%E6%AA%94%E5%85%A7%E5%AE%B9"><span class="nav-number">1.4.</span> <span class="nav-text">obj檔內容</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Address-Translation-Problem"><span class="nav-number">1.5.</span> <span class="nav-text">Address Translation Problem</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#Forward-reference-%E5%89%8D%E5%90%91%E5%8F%83%E8%80%83%E5%95%8F%E9%A1%8C"><span class="nav-number">1.5.1.</span> <span class="nav-text">Forward reference (前向參考問題)</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#Solution-Two-passes-assembler"><span class="nav-number">1.5.2.</span> <span class="nav-text">Solution : Two passes assembler</span></a><ol class="nav-child"><li class="nav-item nav-level-6"><a class="nav-link" href="#%E7%B4%B0%E7%AF%80"><span class="nav-number">1.5.2.1.</span> <span class="nav-text">細節</span></a></li></ol></li></ol></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E4%B8%80%E4%BA%9BSIC-XE%E6%8C%87%E4%BB%A4%E7%AC%A6%E8%99%9F%E4%BB%A3%E8%A1%A8%E7%9A%84%E5%AE%9A%E5%9D%80%E6%A8%A1%E5%BC%8F"><span class="nav-number">1.6.</span> <span class="nav-text">一些SIC&#x2F;XE指令符號代表的定址模式</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Program-Relocation"><span class="nav-number">1.7.</span> <span class="nav-text">Program Relocation</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Sysmbol-Defining-Statements"><span class="nav-number">2.</span> <span class="nav-text">Sysmbol-Defining Statements</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#Literals"><span class="nav-number">2.1.</span> <span class="nav-text">Literals</span></a></li></ol></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#Role-of-Assembler"><span class="nav-number">1.</span> <span class="nav-text">Role of Assembler</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#Basic-SIC-assembler-directive"><span class="nav-number">1.1.</span> <span class="nav-text">Basic SIC assembler directive</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#SIC-Code-Example-%E5%90%ABObject-Code"><span class="nav-number">1.2.</span> <span class="nav-text">SIC Code Example (含Object Code)</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Fundamental-functions-of-assembler"><span class="nav-number">1.3.</span> <span class="nav-text">Fundamental functions of assembler</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#obj%E6%AA%94%E5%85%A7%E5%AE%B9%EF%BC%88%E7%9A%86%E4%BB%A516%E9%80%B2%E5%88%B6%E8%A1%A8%E7%A4%BA%EF%BC%89"><span class="nav-number">1.4.</span> <span class="nav-text">obj檔內容（皆以16進制表示）</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Address-Translation-Problem"><span class="nav-number">1.5.</span> <span class="nav-text">Address Translation Problem</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#Forward-reference-%E5%89%8D%E5%90%91%E5%8F%83%E8%80%83%E5%95%8F%E9%A1%8C"><span class="nav-number">1.5.1.</span> <span class="nav-text">Forward reference (前向參考問題)</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#Solution-Two-passes-assembler"><span class="nav-number">1.5.2.</span> <span class="nav-text">Solution : Two passes assembler</span></a><ol class="nav-child"><li class="nav-item nav-level-6"><a class="nav-link" href="#%E7%B4%B0%E7%AF%80"><span class="nav-number">1.5.2.1.</span> <span class="nav-text">細節</span></a></li></ol></li></ol></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E4%B8%80%E4%BA%9BSIC-XE%E6%8C%87%E4%BB%A4%E7%AC%A6%E8%99%9F%E4%BB%A3%E8%A1%A8%E7%9A%84%E5%AE%9A%E5%9D%80%E6%A8%A1%E5%BC%8F"><span class="nav-number">1.6.</span> <span class="nav-text">一些SIC&#x2F;XE指令符號代表的定址模式</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Program-Relocation-%E7%A8%8B%E5%BC%8F%E9%87%8D%E6%96%B0%E5%AE%9A%E5%9D%80%E5%95%8F%E9%A1%8C"><span class="nav-number">1.7.</span> <span class="nav-text">Program Relocation (程式重新定址問題)</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#Relocatable-program"><span class="nav-number">1.7.1.</span> <span class="nav-text">Relocatable program</span></a></li></ol></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Sysmbol-Defining-Statements"><span class="nav-number">2.</span> <span class="nav-text">Sysmbol-Defining Statements</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#Literals"><span class="nav-number">2.1.</span> <span class="nav-text">Literals</span></a></li></ol></li></ol></div>
       </div>
       <!--/noindex-->
 
@@ -529,14 +565,14 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">16</span>
+          <span class="site-state-item-count">17</span>
           <span class="site-state-item-name">文章</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
             <a href="/categories/">
           
-        <span class="site-state-item-count">4</span>
+        <span class="site-state-item-count">5</span>
         <span class="site-state-item-name">分類</span></a>
       </div>
       <div class="site-state-item site-state-tags">
